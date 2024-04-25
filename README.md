@@ -98,7 +98,7 @@ If you find our paper or code useful, please cite the paper:
     
     **Calc-CMU at SemEval-2024 Task 7: Pre-Calc -- Learning to Use the Calculator Improves Numeracy in Language Models**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.14355)
     
-  - Python interpreter
+  - Python Interpreter
     
     **Pal: Program-aided language models**, ICML 2023. [[Paper]](https://arxiv.org/abs/2211.10435)
     
