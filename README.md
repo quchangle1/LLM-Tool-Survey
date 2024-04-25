@@ -145,6 +145,12 @@ If you find our paper or code useful, please cite the paper:
     
     **CLOVA: A closed-loop visual assistant with tool usage and update**, CVPR 2024. [[Paper]](https://arxiv.org/abs/2312.10908)
     
+    **DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model**, CVPR 2024. [[Paper]](http://arxiv.org/abs/2404.01342)
+    
+    **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2401.10727)
+    
+    **m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2403.11085)
+    
   - Machine Translator
     
     **Toolformer: Language Models Can Teach Themselves to Use Tools**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2302.04761)
