@@ -56,39 +56,70 @@ If you find our paper or code useful, please cite the paper:
     **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2305.11738)
     
   - Database & Knowledge Graph
+    
     **Lamda: Language models for dialog applications**, Preprint 2022. [[Paper]](https://arxiv.org/abs/2201.08239)
+    
     **Gorilla: Large Language Model Connected with Massive APIs**, Preprint 2023. [[Paper]](http://arxiv.org/abs/2305.15334)
+    
     **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2305.11554)
+    
     **ToolQA: A Dataset for LLM Question Answering with External Tools**, NeurIPS 2023. [[Paper]](http://arxiv.org/abs/2306.13304)
+    
     **Syntax Error-Free and Generalizable Tool Use for LLMs via Finite-State Decoding**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2310.07075)
+    
     **Middleware for LLMs: Tools are Instrumental for Language Agents in Complex Environments**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.14672)
+    
   - Weather & Map
+    
     **On the Tool Manipulation Capability of Open-source Large Language Models**, NeurIPS 2023. [[Paper]](http://arxiv.org/abs/2305.16504)
+    
     **ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases**, Preprint 2023. [[Paper]](http://arxiv.org/abs/2306.05301)
+    
     **Tool Learning with Foundation Models**, Preprint 2023. [[Paper]](http://arxiv.org/abs/2304.08354)
 
 - Expertise Enhancement.
   - Mathematical Tools
+    
     **Training verifiers to solve math word problems**, Preprint 2021. [[Paper]](https://arxiv.org/abs/2110.14168)
+    
     **MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**, Preprint 2021. [[Paper]](https://arxiv.org/abs/2205.00445)
+    
     **Chaining Simultaneous Thoughts for Numerical Reasoning**, EMNLP 2022. [[Paper]](https://arxiv.org/abs/2211.16482)
+    
     **Calc-X and Calcformers: Empowering Arithmetical Chain-of-Thought through Interaction with Symbolic Systems**, EMNLP 2023. [[Paper]](http://arxiv.org/abs/2305.15017)
+    
     **Solving math word problems by combining language models with symbolic solvers**, NeurIPS 2023. [[Paper]](http://arxiv.org/abs/2304.09102)
+    
     **Evaluating and improving tool-augmented computation-intensive math reasoning**, NeurIPS 2023. [[Paper]](http://arxiv.org/abs/2306.02408)
+    
     **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2309.17452)
+    
     **MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2402.17231)
+    
     **Calc-CMU at SemEval-2024 Task 7: Pre-Calc -- Learning to Use the Calculator Improves Numeracy in Language Models**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.14355)
+    
   - Python interpreter
+    
     **Pal: Program-aided language models**, ICML 2023. [[Paper]](https://arxiv.org/abs/2211.10435)
+    
     **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**, TMLR 2023. [[Paper]](https://arxiv.org/abs/2211.12588)
+    
     **Fact-Checking Complex Claims with Program-Guided Reasoning**, ACL 2023. [[Paper]](http://arxiv.org/abs/2305.12744)
+    
     **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**, NeurIPS 2023. [[Paper]](http://arxiv.org/abs/2304.09842)
+    
     **LeTI: Learning to Generate from Textual Interactions**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2305.10314)
+    
     **Mint: Evaluating llms in multi-turn interaction with tools and language feedback**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2309.10691)
+    
   - Others
+    
     Chemical: **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting**, ACL 2023. [[Paper]](http://arxiv.org/abs/2305.16896)
+    
     Biomedical: **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**, ISMB 2024. [[Paper]](https://arxiv.org/abs/2304.09667)
+    
     Financial: **Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**, EACL 2024. [[Paper]](https://arxiv.org/abs/2401.15328)
+    
     Medical: **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.13225)
 
 ##### Automation and Efficiency.
