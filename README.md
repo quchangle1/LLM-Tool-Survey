@@ -40,13 +40,21 @@ If you find our paper or code useful, please cite the paper:
 #### Benefit of Tools.
 - Knowledge Acquisition.
   - Search Enigne
+    
     **Internet-Augmented Dialogue Generation**, ACL 2022. [[Paper]](https://arxiv.org/abs/2107.07566)
+    
     **WebGPT: Browser-assisted question-answering with human feedback**, Preprint 2021. [[Paper]](https://arxiv.org/abs/2112.09332)
+    
     **Internet-augmented language models through few-shot prompting for open-domain question answering**, Preprint 2022. [[Paper]](https://arxiv.org/abs/2203.05115)
+    
     **REPLUG: Retrieval-Augmented Black-Box Language Models**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2301.12652)
+    
     **Toolformer: Language Models Can Teach Themselves to Use Tools**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2302.04761)
+    
     **ART: Automatic multi-step reasoning and tool-use for large language models**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2303.09014)
+    
     **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2305.11738)
+    
   - Database & Knowledge Graph
     **Lamda: Language models for dialog applications**, Preprint 2022. [[Paper]](https://arxiv.org/abs/2201.08239)
     **Gorilla: Large Language Model Connected with Massive APIs**, Preprint 2023. [[Paper]](http://arxiv.org/abs/2305.15334)
