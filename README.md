@@ -69,7 +69,7 @@ If you find our paper or code useful, please cite the paper:
     
     **Middleware for LLMs: Tools are Instrumental for Language Agents in Complex Environments**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.14672)
     
-  - Weather & Map
+  - Weather or Map
     
     **On the Tool Manipulation Capability of Open-source Large Language Models**, NeurIPS 2023. [[Paper]](http://arxiv.org/abs/2305.16504)
     
@@ -128,21 +128,33 @@ If you find our paper or code useful, please cite the paper:
   - Filter Emails
   - Project Management
   - Online Shopping Assistants
+    
     **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**, NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2207.01206)
 
 
 ##### Interaction Enhancement.
   - Multi-modal Tools
+    
     **Vipergpt: Visual inference via python execution for reasoning**, ICCV 2023. [[Paper]](https://arxiv.org/abs/2303.08128)
+    
     **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2303.11381)
+    
     **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2305.05662)
+    
     **AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2306.08640)
+    
     **CLOVA: A closed-loop visual assistant with tool usage and update**, CVPR 2024. [[Paper]](https://arxiv.org/abs/2312.10908)
+    
   - Machine Translator
+    
     **Toolformer: Language Models Can Teach Themselves to Use Tools**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2302.04761)
+    
     **Tool Learning with Foundation Models**, Preprint 2023. [[Paper]](http://arxiv.org/abs/2304.08354)
+    
   - Natural Language Processing Tools
+    
     **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2303.17580)
+    
     **GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2312.17294)
 
 #### Benefit of Tool Learning.
@@ -156,78 +168,134 @@ If you find our paper or code useful, please cite the paper:
 ### How Tool Learning?
 #### Task Planning.
 - ##### Tuning-free Methods
+  
   **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**, NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2201.11903)
+  
   **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR 2023. [[Paper]](https://arxiv.org/abs/2210.03629)
+  
   **ART: Automatic multi-step reasoning and tool-use for large language models**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2303.09014)
+  
   **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2303.17580)
+  
   **Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2304.11116)
+  
   **Large Language Models as Tool Makers**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2305.17126)
+  
   **CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models**, EMNLP 2023. [[Paper]](https://arxiv.org/abs/2305.14318)
+  
   **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2307.13528)
+  
   **TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2308.03427)
+  
   **ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.13227)
+  
   **Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2312.04455)
+  
   **TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2401.12869)
+  
   **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
 
 - ##### Tuning-based Methods
+  
   **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**, INTELLIGENT COMPUTING 2024. [[Paper]](https://arxiv.org/abs/2303.16434)
+  
   **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2307.16789)
+  
   **Toolink: Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2310.05155)
+  
   **TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2311.11315)
+  
   **Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering**, ECIR 2024. [[Paper]](https://arxiv.org/abs/2401.01780)
+  
   **Small LLMs Are Weak Tool Learners: A Multi-LLM Agent**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.07324)
+  
   **Efficient Tool Use with Chain-of-Abstraction Reasoning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.17464)
+  
   **Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.16696)
 
 #### Tool Selection.
 - ##### Retriever-based Tool Selection
+  
   **A statistical interpretation of term specificity and its application in retrieval**, Journal of Documentation 1972. [[Paper]](https://www.emerald.com/insight/content/doi/10.1108/eb026526/full/html)
+  
   **The probabilistic relevance framework: BM25 and beyond**, Foundations and Trends in Information Retrieval 2009. [[Paper]](https://dl.acm.org/doi/10.1561/1500000019)
+  
   **Sentence-bert: Sentence embeddings using siamese bert-networks**, EMNLP 2019. [[Paper]](https://arxiv.org/abs/1908.10084)
+  
   **Approximate nearest neighbor negative contrastive learning for dense text retrieval**, ICLR 2021. [[Paper]](https://arxiv.org/abs/2007.00808)
+  
   **Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling**, SIGIR 2021. [[Paper]](https://arxiv.org/abs/2104.06967)
+  
   **Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval**, ACL 2022. [[Paper]](https://arxiv.org/abs/2108.05540)
+  
   **Unsupervised dense information retrieval with contrastive learning**, Preprint 2021. [[Paper]](https://arxiv.org/abs/2112.09118)
+  
   **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2309.17428)
+  
   **ProTIP: Progressive Tool Retrieval Improves Planning**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2312.10332)
+  
   **ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval**, COLING 2024. [[Paper]](https://arxiv.org/abs/2403.06551)
+  
   **Towards Completeness-Oriented Tool Retrieval for Large Language Models**, Preprint 2024. [[Paper]]()
 
 - ##### LLM-based Tool Selection
+  
   **On the Tool Manipulation Capability of Open-source Large Language Models**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2305.16504)
+  
   **Making Language Models Better Tool Learners with Execution Feedback**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2305.13068)
+  
   **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2307.16789)
+  
   **Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum**, AAAI 2024. [[Paper]](https://arxiv.org/abs/2308.14034)
+  
   **AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.04253)
+  
   **TOOLVERIFIER: Generalization to New Tools via Self-Verification**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.14158)
+  
   **ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.00839)
 
 #### Tool Calling.
 - ##### Tuning-free Methods
+  
   **RestGPT: Connecting Large Language Models with Real-World RESTful APIs**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2306.06624)
+  
   **Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning**, Preprint 2023. [[Paper]](http://arxiv.org/abs/2310.04474)
+  
   **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**, EACL 2023. [[Paper]](https://arxiv.org/abs/2307.08775)
+  
   **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2308.00675)
+  
   **ControlLLM: Augment Language Models with Tools by Searching on Graphs**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2310.17796)
+  
   **EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.06201)
   
 - ##### Tuning-based Methods
+  
   **Gorilla: Large Language Model Connected with Massive APIs**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2305.15334)
+  
   **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2305.18752)
+  
   **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2305.11554)
+  
   **Tool-Augmented Reward Modeling**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.01045)
+  
   **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.04746)
   
 #### Response Generation.
 - ##### Direct Insertion Methods
+  
   **TALM: Tool Augmented Language Models**, Preprint 2022. [[Paper]](https://arxiv.org/abs/2205.12255)
+  
   **Toolformer: Language Models Can Teach Themselves to Use Tools**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2302.04761)
+  
   **A Comprehensive Evaluation of Tool-Assisted Generation Strategies**, EMNLP 2023. [[Paper]](https://arxiv.org/abs/2310.10062)
 
 - ##### Information Intergation Methods
+  
   **TPE: Towards Better Compositional Reasoning over Conceptual Tools with Multi-persona Collaboration**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2309.16090)
+  
   **RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2310.04408)
+  
   **Learning to Use Tools via Cooperative and Interactive Agents**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.03031)
 
 
@@ -261,25 +329,46 @@ If you find our paper or code useful, please cite the paper:
 #### Evaluation
 - Task Planning
   - Tool Usage Awareness
+    
     **MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2310.03128)
+    
   - Pass Rate & Win Rate
+    
     **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2307.16789)
+    
   - Accuracy
+    
     **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2312.14033)
+    
     **RestGPT: Connecting Large Language Models with Real-World RESTful APIs**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2306.06624)
+    
 - Tool Selection
-  Recall: **Recall, precision and average precision**,Department of Statistics and Actuarial Science 2004,[[Paper]](https://www.researchgate.net/publication/228874142_Recall_precision_and_average_precision)
-  NDCG: **Cumulated gain-based evaluation of IR techniques**, TOIS 2002,[[Paper]](https://dl.acm.org/doi/10.1145/582415.582418)
-  COMP: [[Paper]]()
+  
+  - Recall
+    **Recall, precision and average precision**,Department of Statistics and Actuarial Science 2004. [[Paper]](https://www.researchgate.net/publication/228874142_Recall_precision_and_average_precision)
+  
+  - NDCG
+    **Cumulated gain-based evaluation of IR techniques**, TOIS 2002. [[Paper]](https://dl.acm.org/doi/10.1145/582415.582418)
+  
+  - COMP
+    **Towards Completeness-Oriented Tool Retrieval for Large Language Models**, Preprint 2024. [[Paper]]()
+  
 - Tool Calling
-  Consistent with stipulations: 
+  - Consistent with stipulations
+  
     **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2312.14033)
+    
     **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
+    
     **ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios**, Preprint 2024. [[Paper3]](http://arxiv.org/abs/2401.00741)
+    
 - Response Generation
-  BLEU: **Bleu: a Method for Automatic Evaluation of Machine Translation**, ACL 2002, [[Paper]](https://aclanthology.org/P02-1040/)
-  ROUGE: **Rouge: A package for automatic evaluation of summaries**, ACL 2004,[[Paper]](https://aclanthology.org/W04-1013/)
-  Exact Match: **cem: Coarsened exact matching in Stata**, The Stata Journal 2009,[[Paper]](https://gking.harvard.edu/files/cem-stata.pdf) 
+  - BLEU
+    **Bleu: a Method for Automatic Evaluation of Machine Translation**, ACL 2002. [[Paper]](https://aclanthology.org/P02-1040/)
+  - ROUGE
+    **Rouge: A package for automatic evaluation of summaries**, ACL 2004. [[Paper]](https://aclanthology.org/W04-1013/)
+  - Exact Match
+    **cem: Coarsened exact matching in Stata**, The Stata Journal 2009. [[Paper]](https://gking.harvard.edu/files/cem-stata.pdf) 
   
 ### Challenges and Future Directions
 
@@ -295,12 +384,16 @@ If you find our paper or code useful, please cite the paper:
 #### Awesome Lists
 
   **ToolLearningPapers.** [[Repo]](https://github.com/thunlp/ToolLearningPapers)
+  
   **awesome-tool-llm.** [[Repo]](https://github.com/zorazrw/awesome-tool-llm)
+  
   **awesome-llm-tool-learning.** [[Repo]](https://github.com/AngxiaoYue/awesome-llm-tool-learning)
 
 #### Other Surveys
   
   **Augmented Language Models: a Survey**, TMLR 2024. [[Paper]](https://arxiv.org/abs/2302.07842)
+  
   **Tool Learning with Foundation Models**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2304.08354)
+  
   **What Are Tools Anyway? A Survey from the Language Model Perspective**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.15452)
   
