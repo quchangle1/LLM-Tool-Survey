@@ -345,12 +345,15 @@ If you find our paper or code useful, please cite the paper:
 - Tool Selection
   
   - Recall
+    
     **Recall, precision and average precision**,Department of Statistics and Actuarial Science 2004. [[Paper]](https://www.researchgate.net/publication/228874142_Recall_precision_and_average_precision)
   
   - NDCG
+    
     **Cumulated gain-based evaluation of IR techniques**, TOIS 2002. [[Paper]](https://dl.acm.org/doi/10.1145/582415.582418)
   
   - COMP
+    
     **Towards Completeness-Oriented Tool Retrieval for Large Language Models**, Preprint 2024. [[Paper]]()
   
 - Tool Calling
@@ -364,10 +367,13 @@ If you find our paper or code useful, please cite the paper:
     
 - Response Generation
   - BLEU
+    
     **Bleu: a Method for Automatic Evaluation of Machine Translation**, ACL 2002. [[Paper]](https://aclanthology.org/P02-1040/)
   - ROUGE
+    
     **Rouge: A package for automatic evaluation of summaries**, ACL 2004. [[Paper]](https://aclanthology.org/W04-1013/)
   - Exact Match
+    
     **cem: Coarsened exact matching in Stata**, The Stata Journal 2009. [[Paper]](https://gking.harvard.edu/files/cem-stata.pdf) 
   
 ### Challenges and Future Directions
@@ -381,7 +387,7 @@ If you find our paper or code useful, please cite the paper:
 - Tool Learning with Multi-Modal
 
 ### Other Resources
-#### Awesome Lists
+- #### Awesome Lists
 
   **ToolLearningPapers.** [[Repo]](https://github.com/thunlp/ToolLearningPapers)
   
@@ -389,7 +395,7 @@ If you find our paper or code useful, please cite the paper:
   
   **awesome-llm-tool-learning.** [[Repo]](https://github.com/AngxiaoYue/awesome-llm-tool-learning)
 
-#### Other Surveys
+- #### Other Surveys
   
   **Augmented Language Models: a Survey**, TMLR 2024. [[Paper]](https://arxiv.org/abs/2302.07842)
   
