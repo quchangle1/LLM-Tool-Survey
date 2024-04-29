@@ -10,7 +10,7 @@ This is the collection of papers related to tool learning with LLMs. These paper
     - [Benefit of Tools.](#benefit-of-tools)
     - [Benefit of Tool Learning.](#benefit-of-tool-learning)
   - [How Tool Learning?](#how-tool-learning)
-    - [Task lanning.](#task-planning)
+    - [Task Planning.](#task-planning)
       - [Tuning-free Methods.](#tuning-free-methods)
       - [Tuning-based Methods.](#tuning-based-methods)
     - [Tool Selection.](#tool-selection)
@@ -21,7 +21,7 @@ This is the collection of papers related to tool learning with LLMs. These paper
       - [Tuning-based Methods.](#tuning-based-methods-1)
     - [Response Generation.](#response-generation)
       - [Direct Insertion Methods](#direct-insertion-methods)
-      - [Information Intergation Methods](#information-intergation-methods)
+      - [Information Integration Methods](#information-integration-methods)
   - [Benchmarks and Evaluation](#benchmarks-and-evaluation)
     - [Benchmarks.](#benchmarks)
     - [Evaluation.](#evaluation)
@@ -39,7 +39,7 @@ If you find our paper or code useful, please cite the paper:
 ### Why Tool Learning?
 #### Benefit of Tools.
 - Knowledge Acquisition.
-  - Search Enigne
+  - Search Engine
     
     **Internet-Augmented Dialogue Generation**, ACL 2022. [[Paper]](https://arxiv.org/abs/2107.07566)
     
@@ -296,7 +296,7 @@ If you find our paper or code useful, please cite the paper:
   
   **A Comprehensive Evaluation of Tool-Assisted Generation Strategies**, EMNLP 2023. [[Paper]](https://arxiv.org/abs/2310.10062)
 
-- ##### Information Intergation Methods
+- ##### Information Integration Methods
   
   **TPE: Towards Better Compositional Reasoning over Conceptual Tools with Multi-persona Collaboration**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2309.16090)
   
