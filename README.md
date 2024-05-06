@@ -331,6 +331,7 @@ If you find our paper or code useful, please cite the paper:
 | InjecAgent | [[Paper]](http://arxiv.org/abs/2403.02691) | A benchmark designed to assess the vulnerability of tool-integrated LLM agents to IPI attacks.(Safety) | 17 | 1,054 | [[Repo]](https://github.com/uiuc-kang-lab/InjecAgent) | 2024-02 |
 | StableToolBench | [[Paper]](http://arxiv.org/abs/2403.07714) | A benchmark evolving from ToolBench, proposing a virtual API server and stable evaluation system.(Stable) | 16,464 | 126,486 | [[Repo]](https://github.com/zhichengg/StableToolBench) | 2024-03 |
 | m&m's | [[Paper]](http://arxiv.org/abs/2403.11085) | A benchmark containing 4K+ multi-step multi-modal tasks involving 33 tools that include multi-modal models, public APIs, and image processing modules.(Multi-modal) | 33 | 4,427 | [[Repo]](https://github.com/RAIVNLab/mnms) | 2024-03 |
+| ToolLens | [[Paper]]() | TOOLE encompasses merely 497 queries, and ToolBench's dataset construction, which involves providing complete tool descriptions to ChatGPT, results in verbose and semantically direct queries.(Tool Retrieval) | 464 | 18,770 | [[Repo]]() | 2024-05 |
 
 #### Evaluation
 - Task Planning
