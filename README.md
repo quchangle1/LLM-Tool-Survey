@@ -13,7 +13,7 @@ Please feel free to contact us if you have any questions or suggestions!
 If you find our paper or code useful, please cite the paper:
 
 ```BibTex
-@article{qu2024survey,
+@article{qu2024toolsurvey,
     author={Qu, Changle and Dai, Sunhao and Wei, Xiaochi and Cai, Hengyi and Wang, Shuaiqiang and Yin, Dawei and Xu, Jun and Wen, Ji-Rong},
     title={Tool Learning with Large Language Models: A Survey},
     journal={arXiv preprint arXiv},
