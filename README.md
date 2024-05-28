@@ -42,7 +42,7 @@ If you find our paper or code useful, please cite the paper:
 
 ## 🌟 Introduction
 
-![framework.pdf](assets/framework.pdf)
+![framework.jpg](assets/framework.jpg)
 
 
 ## 📄 Paper List
