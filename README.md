@@ -122,11 +122,25 @@ If you find our paper or code useful, please cite the paper:
     
     Medical: **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.13225)
 
+    Recommendation: **Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**, SIGIR 2024. [[Paper]](https://arxiv.org/abs/2405.15114)
+
 ##### Automation and Efficiency.
   - Schedule Tools
+    
+    **ToolQA: A Dataset for LLM Question Answering with External Tools**, NeurIPS 2023. [[Paper]](http://arxiv.org/abs/2306.13304)
+
   - Set Reminders
+    
+    **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2307.16789)
+    
   - Filter Emails
+   
+    **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2307.16789)
+    
   - Project Management
+
+    **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2307.16789)
+    
   - Online Shopping Assistants
     
     **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**, NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2207.01206)
@@ -200,7 +214,7 @@ If you find our paper or code useful, please cite the paper:
   **TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2401.12869)
   
   **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
-
+  
 - ##### Tuning-based Methods
   
   **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**, INTELLIGENT COMPUTING 2024. [[Paper]](https://arxiv.org/abs/2303.16434)
@@ -242,7 +256,7 @@ If you find our paper or code useful, please cite the paper:
   
   **ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval**, COLING 2024. [[Paper]](https://arxiv.org/abs/2403.06551)
   
-  **Towards Completeness-Oriented Tool Retrieval for Large Language Models**, Preprint 2024. [[Paper]]()
+  **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
 
 - ##### LLM-based Tool Selection
   
@@ -317,13 +331,16 @@ If you find our paper or code useful, please cite the paper:
 | RestBench  | [[Paper]](http://arxiv.org/abs/2306.06624) | A high-quality benchmark which consists of two real-world scenarios and human-annotated instructions with gold solution paths. | 94 | 157 | [[Repo]](https://restgpt.github.io) | 2023-06 |
 | ToolBench2  | [[Paper]](http://arxiv.org/abs/2307.16789) | An instruction-tuning dataset for tool use, which is constructed automatically using ChatGPT. | 16,464 | 126,486 | [[Repo]](https://github.com/OpenBMB/ToolBench) | 2023-07 |
 | MetaTool  | [[Paper]](http://arxiv.org/abs/2310.03128) | A benchmark designed to evaluate whether LLMs have tool usage awareness and can correctly choose tools. | 199 | 21,127 | [[Repo]](https://github.com/HowieHwong/MetaTool) | 2023-10 |
+| TaskBench  | [[Paper]](https://arxiv.org/abs/2311.18760v2) | A benchmark designed to evaluate the capability of LLMs from different aspects, including task decomposition, tool invocation, and parameter prediction. | 103 | 28,271 | [[Repo]](https://github.com/microsoft/JARVIS) | 2023-11 |
 | T-Eval  | [[Paper]](http://arxiv.org/abs/2312.14033) | Evaluating the tool-utilization capability step by step. | 15 | 533 | [[Repo]](https://github.com/open-compass/T-Eval) | 2023-12 |
 | ToolEyes  | [[Paper]](http://arxiv.org/abs/2401.00741) | A fine-grained system tailored for the evaluation of the LLMs’ tool learning capabilities in authentic scenarios. | 568 | 382 | [[Repo]](https://github.com/Junjie-Ye/ToolEyes) | 2024-01 |
 | UltraTool  | [[Paper]](http://arxiv.org/abs/2401.17167) | A novel benchmark designed to improve and evaluate LLMs’ ability in tool utilization within real-world scenarios. | 2,032 | 5,824 | [[Repo]](https://github.com/JoeYing1019/UltraTool) | 2024-01 |
 | API-BLEND  | [[Paper]](http://arxiv.org/abs/2402.15491) | A large corpora for training and systematic testing of tool-augmented LLMs. | - | 189,040 | [[Repo]]() | 2024-02 |
+| Seal-Tools  | [[Paper]](https://arxiv.org/abs/2405.08355) | Seal-Tools contains hard instances that call multiple tools to complete the job, among which some are nested tool callings. | 4,076 | 14,076 | [[Repo]](https://github.com/fairyshine/Seal-Tools) | 2024-05 |
 | ToolQA  | [[Paper]](http://arxiv.org/abs/2306.13304) | It is designed to faithfully evaluate LLMs’ ability to use external tools for question answering.(QA) | 13 | 1,530 | [[Repo]](https://github.com/night-chen/ToolQA) | 2023-06 |
 | ToolEmu  | [[Paper]](http://arxiv.org/abs/2309.15817) | A framework that uses a LM to emulate tool execution and enables scalable testing of LM agents against a diverse range of tools and scenarios.(Safety) | 311 | 144 | [[Repo]](https://github.com/ryoungj/toolemu) | 2023-09 |
 | ToolTalk  | [[Paper]](http://arxiv.org/abs/2311.10775) | A benchmark consisting of complex user intents requiring multi-step tool usage specified through dialogue.(Conversation) | 28 | 78 | [[Repo]](https://github.com/microsoft/ToolTalk) | 2023-11 |
+| VIoT  | [[Paper]](https://arxiv.org/abs/2312.00401) | A benchmark include a training dataset and established performance metrics for 11 representative vision models, categorized into three groups using semi-automated annotations.(VIoT) | 11 | 1,841 | [[Repo]]() | 2023-12 |
 | RoTBench  | [[Paper]](http://arxiv.org/abs/2401.08326) | A multi-level benchmark for evaluating the robustness of LLMs in tool learning.(Robustness) | 568 | 105 | [[Repo]](https://github.com/Junjie-Ye/RoTBench) | 2024-01 |
 | MLLM-Tool  | [[Paper]](http://arxiv.org/abs/2401.10727) | A system incorporating open-source LLMs and multimodal encoders so that the learnt LLMs can be conscious of multi-modal input instruction and then select the functionmatched tool correctly.(Multi-modal) | 932 | 11,642 | [[Repo]](https://github.com/MLLM-Tool/MLLM-Tool) | 2024-01 |
 | ToolSword | [[Paper]](http://arxiv.org/abs/2402.10753) | A comprehensive framework dedicated to meticulously investigating safety issues linked to LLMs in tool learning.(Safety) | 100 | 440 | [[Repo]](https://github.com/Junjie-Ye/ToolSword) | 2024-02 |
@@ -331,7 +348,7 @@ If you find our paper or code useful, please cite the paper:
 | InjecAgent | [[Paper]](http://arxiv.org/abs/2403.02691) | A benchmark designed to assess the vulnerability of tool-integrated LLM agents to IPI attacks.(Safety) | 17 | 1,054 | [[Repo]](https://github.com/uiuc-kang-lab/InjecAgent) | 2024-02 |
 | StableToolBench | [[Paper]](http://arxiv.org/abs/2403.07714) | A benchmark evolving from ToolBench, proposing a virtual API server and stable evaluation system.(Stable) | 16,464 | 126,486 | [[Repo]](https://github.com/zhichengg/StableToolBench) | 2024-03 |
 | m&m's | [[Paper]](http://arxiv.org/abs/2403.11085) | A benchmark containing 4K+ multi-step multi-modal tasks involving 33 tools that include multi-modal models, public APIs, and image processing modules.(Multi-modal) | 33 | 4,427 | [[Repo]](https://github.com/RAIVNLab/mnms) | 2024-03 |
-| ToolLens | [[Paper]]() | TOOLE encompasses merely 497 queries, and ToolBench's dataset construction, which involves providing complete tool descriptions to ChatGPT, results in verbose and semantically direct queries.(Tool Retrieval) | 464 | 18,770 | [[Repo]]() | 2024-05 |
+| ToolLens | [[Paper]](https://arxiv.org/abs/2405.16089) | ToolLens includes concise yet intentionally multifaceted queries that better mimic real-world user interactions. (Tool Retrieval) | 464 | 18,770 | [[Repo]]() | 2024-05 |
 
 #### Evaluation
 - Task Planning
@@ -361,7 +378,7 @@ If you find our paper or code useful, please cite the paper:
   
   - COMP
     
-    **Towards Completeness-Oriented Tool Retrieval for Large Language Models**, Preprint 2024. [[Paper]]()
+    **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
   
 - Tool Calling
   - Consistent with stipulations
