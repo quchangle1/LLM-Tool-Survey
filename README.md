@@ -7,7 +7,7 @@ This is the collection of papers related to tool learning with LLMs. These paper
 - [Introduction](#🌟-introduction)
 - [Paper List](#📄-paper-list)
   - [Why Tool Learning?](#why-tool-learning)
-    - [Benefit of Tools](#benefit-of-tools)
+    - [Benefit of Tool Integration](#benefit-of-tools)
     - [Benefit of Tool Learning.](#benefit-of-tool-learning)
   - [How Tool Learning?](#how-tool-learning)
     - [Task Planning](#task-planning)
