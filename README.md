@@ -52,7 +52,9 @@ If you find our paper or code useful, please cite the paper:
 
 #### **The overall workflow for tool learning with large language models.**
 
-![Framework.png](assets/Framework.png)
+<div align=center>
+  <img src="assets/Framework.png" height="500"/> 
+</div>
 
 ## 📄 Paper List
 ### Why Tool Learning?
