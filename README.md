@@ -45,7 +45,7 @@ If you find our paper or code useful, please cite the paper:
 
 #### **The overall workflow for tool learning with large language models.**
 ![framework.jpg](assets/framework.jpg)
-
+![framework.png](assets/framework.png)
 
 ## 📄 Paper List
 ### Why Tool Learning?
