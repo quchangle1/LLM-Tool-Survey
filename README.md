@@ -124,7 +124,7 @@ If you find our paper or code useful, please cite the paper:
 
     Recommendation: **Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**, SIGIR 2024. [[Paper]](https://arxiv.org/abs/2405.15114)
 
-##### Automation and Efficiency.
+- Automation and Efficiency.
   - Schedule Tools
     
     **ToolQA: A Dataset for LLM Question Answering with External Tools**, NeurIPS 2023. [[Paper]](http://arxiv.org/abs/2306.13304)
@@ -146,7 +146,7 @@ If you find our paper or code useful, please cite the paper:
     **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**, NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2207.01206)
 
 
-##### Interaction Enhancement.
+- Interaction Enhancement.
   - Multi-modal Tools
     
     **Vipergpt: Visual inference via python execution for reasoning**, ICCV 2023. [[Paper]](https://arxiv.org/abs/2303.08128)
