@@ -242,6 +242,8 @@ If you find our paper or code useful, please cite the paper:
   
   **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**, INTELLIGENT COMPUTING 2024. [[Paper]](https://arxiv.org/abs/2303.16434)
   
+  **OpenAGI: When LLM Meets Domain Experts**, Neurips 2023. [[Paper]](https://arxiv.org/abs/2304.04370)
+  
   **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2307.16789)
   
   **Toolink: Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2310.05155)
