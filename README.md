@@ -136,6 +136,8 @@ If you find our paper or code useful, please cite the paper:
   - Others
     
     Chemical: **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting**, ACL 2023. [[Paper]](http://arxiv.org/abs/2305.16896)
+ 
+    **ChemCrow: Augmenting large-language models with chemistry tools**, Nature Machine Intelligence 2024. [[Paper]](https://arxiv.org/abs/2304.05376)
     
     Biomedical: **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**, ISMB 2024. [[Paper]](https://arxiv.org/abs/2304.09667)
     
