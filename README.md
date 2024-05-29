@@ -2,7 +2,7 @@
 
 Recently, tool learning with large language models~(LLMs) has emerged as a promising paradigm for augmenting the capabilities of LLMs to tackle highly complex problems. 
 
-This is the collection of papers related to tool learning with LLMs. These papers are organized according to our survey paper ["Tool Learning with Large Language Models: A Survey"]().
+This is the collection of papers related to tool learning with LLMs. These papers are organized according to our survey paper ["Tool Learning with Large Language Models: A Survey"](https://arxiv.org/abs/2405.17935).
 
 Please feel free to contact us if you have any questions or suggestions!
 
