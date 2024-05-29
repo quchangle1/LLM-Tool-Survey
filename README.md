@@ -16,7 +16,7 @@ If you find our paper or code useful, please cite the paper:
 @article{qu2024toolsurvey,
     author={Qu, Changle and Dai, Sunhao and Wei, Xiaochi and Cai, Hengyi and Wang, Shuaiqiang and Yin, Dawei and Xu, Jun and Wen, Ji-Rong},
     title={Tool Learning with Large Language Models: A Survey},
-    journal={arXiv preprint arXiv},
+    journal={arXiv preprint arXiv:2405.17935},
     year={2024}
 }
 ```
