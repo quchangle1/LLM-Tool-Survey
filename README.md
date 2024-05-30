@@ -238,6 +238,10 @@ If you find our paper or code useful, please cite the paper:
   
   **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
   
+  **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**, Preprint 2024. [[Paper]](http://www.arxiv.org/abs/2405.16376)
+
+  **Chain of Tools: Large Language Model is an Automatic Multi-tool Learner**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.16533)
+  
 - ##### Tuning-based Methods
   
   **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**, INTELLIGENT COMPUTING 2024. [[Paper]](https://arxiv.org/abs/2303.16434)
@@ -257,6 +261,8 @@ If you find our paper or code useful, please cite the paper:
   **Efficient Tool Use with Chain-of-Abstraction Reasoning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.17464)
   
   **Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.16696)
+  
+  **A Solution-based LLM API-using Methodology for Academic Information Seeking**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.15165)
 
 #### Tool Selection.
 - ##### Retriever-based Tool Selection
@@ -298,6 +304,8 @@ If you find our paper or code useful, please cite the paper:
   **TOOLVERIFIER: Generalization to New Tools via Self-Verification**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.14158)
   
   **ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.00839)
+  
+  **GeckOpt: LLM System Efficiency via Intent-Based Tool Selection**, GLSVLSI 2024. [[Paper]](https://arxiv.org/abs/2404.15804)
 
 #### Tool Calling.
 - ##### Tuning-free Methods
@@ -373,6 +381,7 @@ If you find our paper or code useful, please cite the paper:
 | InjecAgent | [[Paper]](http://arxiv.org/abs/2403.02691) | A benchmark designed to assess the vulnerability of tool-integrated LLM agents to IPI attacks.(Safety) | 17 | 1,054 | [[Repo]](https://github.com/uiuc-kang-lab/InjecAgent) | 2024-02 |
 | StableToolBench | [[Paper]](http://arxiv.org/abs/2403.07714) | A benchmark evolving from ToolBench, proposing a virtual API server and stable evaluation system.(Stable) | 16,464 | 126,486 | [[Repo]](https://github.com/zhichengg/StableToolBench) | 2024-03 |
 | m&m's | [[Paper]](http://arxiv.org/abs/2403.11085) | A benchmark containing 4K+ multi-step multi-modal tasks involving 33 tools that include multi-modal models, public APIs, and image processing modules.(Multi-modal) | 33 | 4,427 | [[Repo]](https://github.com/RAIVNLab/mnms) | 2024-03 |
+| GeoLLM-QA | [[Paper]](https://arxiv.org/abs/2405.00709) | A novel benchmark of 1,000 diverse tasks, designed to capture complex RS workflows where LLMs handle complex data structures, nuanced reasoning, and interactions with dynamic user interfaces.(Remote Sensing) | 117 | 1,000 | [[Repo]]() | 2024-04 |
 | ToolLens | [[Paper]](https://arxiv.org/abs/2405.16089) | ToolLens includes concise yet intentionally multifaceted queries that better mimic real-world user interactions. (Tool Retrieval) | 464 | 18,770 | [[Repo]]() | 2024-05 |
 
 #### Evaluation
