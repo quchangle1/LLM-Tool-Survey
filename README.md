@@ -136,7 +136,7 @@ If you find our paper or code useful, please cite the paper:
   - Others
     
     Chemical: **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting**, ACL 2023. [[Paper]](http://arxiv.org/abs/2305.16896)
- 
+
     **ChemCrow: Augmenting large-language models with chemistry tools**, Nature Machine Intelligence 2024. [[Paper]](https://arxiv.org/abs/2304.05376)
     
     Biomedical: **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**, ISMB 2024. [[Paper]](https://arxiv.org/abs/2304.09667)
@@ -157,7 +157,7 @@ If you find our paper or code useful, please cite the paper:
     **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2307.16789)
     
   - Filter Emails
-   
+  
     **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2307.16789)
     
   - Project Management
@@ -383,6 +383,7 @@ If you find our paper or code useful, please cite the paper:
 | m&m's | [[Paper]](http://arxiv.org/abs/2403.11085) | A benchmark containing 4K+ multi-step multi-modal tasks involving 33 tools that include multi-modal models, public APIs, and image processing modules.(Multi-modal) | 33 | 4,427 | [[Repo]](https://github.com/RAIVNLab/mnms) | 2024-03 |
 | GeoLLM-QA | [[Paper]](https://arxiv.org/abs/2405.00709) | A novel benchmark of 1,000 diverse tasks, designed to capture complex RS workflows where LLMs handle complex data structures, nuanced reasoning, and interactions with dynamic user interfaces.(Remote Sensing) | 117 | 1,000 | [[Repo]]() | 2024-04 |
 | ToolLens | [[Paper]](https://arxiv.org/abs/2405.16089) | ToolLens includes concise yet intentionally multifaceted queries that better mimic real-world user interactions. (Tool Retrieval) | 464 | 18,770 | [[Repo]]() | 2024-05 |
+| SoAyBench | [[Paper]](https://arxiv.org/abs/2405.15165) | A Solution-based LLM API-using Methodology for Academic Information Seeking | 7 | 792 | [[Repo]](https://github.com/RUCKBReasoning/SoAy), [[HF]](https://huggingface.co/datasets/frederickwang99/SoAyBench) | 2024-05 |
 
 #### Evaluation
 - Task Planning
@@ -400,6 +401,8 @@ If you find our paper or code useful, please cite the paper:
     
     **RestGPT: Connecting Large Language Models with Real-World RESTful APIs**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2306.06624)
     
+    **A Solution-based LLM API-using Methodology for Academic Information Seeking**, Preprint 2024. [[Paper](https://arxiv.org/abs/2405.15165)]
+  
 - Tool Selection
   
   - Recall
@@ -422,7 +425,7 @@ If you find our paper or code useful, please cite the paper:
     **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
     
     **ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios**, Preprint 2024. [[Paper3]](http://arxiv.org/abs/2401.00741)
-    
+  
 - Response Generation
   - BLEU
     
@@ -460,4 +463,3 @@ If you find our paper or code useful, please cite the paper:
   **Tool Learning with Foundation Models**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2304.08354)
   
   **What Are Tools Anyway? A Survey from the Language Model Perspective**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.15452)
-  
