@@ -10,7 +10,7 @@ Please feel free to contact us if you have any questions or suggestions!
 :tada::+1: Please feel free to open an issue or make a pull request! :tada::+1:
 
 ## Citation
-If you find our paper or code useful, please cite the paper:
+If you find our work helps your research, please kindly cite our paper:
 
 ```BibTex
 @article{qu2024toolsurvey,
