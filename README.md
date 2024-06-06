@@ -226,6 +226,8 @@ If you find our work helps your research, please kindly cite our paper:
   
   **CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models**, EMNLP 2023. [[Paper]](https://arxiv.org/abs/2305.14318)
   
+  **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models**, EMNLP 2023. [[Paper]](https://arxiv.org/abs/2305.14323)
+  
   **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2307.13528)
   
   **TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2308.03427)
@@ -234,7 +236,9 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2312.04455)
   
-  **TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2401.12869)
+  **TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.12869)
+  
+  **From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.18157)
   
   **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
   
