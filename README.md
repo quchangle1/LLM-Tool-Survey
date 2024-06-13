@@ -147,6 +147,8 @@ If you find our work helps your research, please kindly cite our paper:
 
     Recommendation: **Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**, SIGIR 2024. [[Paper]](https://arxiv.org/abs/2405.15114)
 
+    Gas Turbines: **DOMAIN-SPECIFIC ReAct FOR PHYSICS-INTEGRATED ITERATIVE MODELING: A CASE STUDY OF LLM AGENTS FOR GAS PATH ANALYSIS OF GAS TURBINES**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.07572v1)
+
 - Automation and Efficiency.
   - Schedule Tools
     
@@ -269,6 +271,8 @@ If you find our work helps your research, please kindly cite our paper:
   **Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.16696)
   
   **A Solution-based LLM API-using Methodology for Academic Information Seeking**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.15165)
+  
+  **Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.07115)
 
 #### Tool Selection.
 - ##### Retriever-based Tool Selection
