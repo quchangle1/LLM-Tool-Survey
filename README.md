@@ -332,6 +332,8 @@ If you find our work helps your research, please kindly cite our paper:
   
   **EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.06201)
   
+  **Large Language Models as Zero-shot Dialogue State Tracker through Function Calling**, ACL 2024. [[Paper]](https://arxiv.org/abs/2402.10466)
+  
 - ##### Tuning-based Methods
   
   **Gorilla: Large Language Model Connected with Massive APIs**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2305.15334)
