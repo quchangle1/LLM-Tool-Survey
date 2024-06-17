@@ -249,6 +249,8 @@ If you find our work helps your research, please kindly cite our paper:
   **Chain of Tools: Large Language Model is an Automatic Multi-tool Learner**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.16533)
   
   **Tool-Planner: Dynamic Solution Tree Planning for Large Language Model with Tool Clustering**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.03807)
+
+  **Can Graph Learning Improve Task Planning?**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.19119)
   
 - ##### Tuning-based Methods
   
