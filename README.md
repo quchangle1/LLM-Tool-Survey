@@ -74,6 +74,8 @@ If you find our work helps your research, please kindly cite our paper:
     
     **ART: Automatic multi-step reasoning and tool-use for large language models**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2303.09014)
     
+    **ToolCoder: Teach Code Generation Models to use API search tools**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2305.04032)
+    
     **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2305.11738)
     
   - Database & Knowledge Graph
@@ -244,13 +246,19 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
   
-  **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**, Preprint 2024. [[Paper]](http://www.arxiv.org/abs/2405.16376)
-
-  **Chain of Tools: Large Language Model is an Automatic Multi-tool Learner**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.16533)
+  **Large Language Models Can Plan Your Travels Rigorously with Formal Verification Tools**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2404.11891)
   
-  **Tool-Planner: Dynamic Solution Tree Planning for Large Language Model with Tool Clustering**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.03807)
+  **Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.05955)
+  
+  **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**, Preprint 2024. [[Paper]](http://www.arxiv.org/abs/2405.16376)
+  
+  **Chain of Tools: Large Language Model is an Automatic Multi-tool Learner**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.16533)
 
   **Can Graph Learning Improve Task Planning?**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.19119)
+  
+  **Tool-Planner: Dynamic Solution Tree Planning for Large Language Model with Tool Clustering**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.03807)
+  
+  
   
 - ##### Tuning-based Methods
   
@@ -318,6 +326,8 @@ If you find our work helps your research, please kindly cite our paper:
   **ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.00839)
   
   **GeckOpt: LLM System Efficiency via Intent-Based Tool Selection**, GLSVLSI 2024. [[Paper]](https://arxiv.org/abs/2404.15804)
+  
+  **Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.11277v1)
 
 #### Tool Calling.
 - ##### Tuning-free Methods
