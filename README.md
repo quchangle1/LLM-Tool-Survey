@@ -135,6 +135,10 @@ If you find our work helps your research, please kindly cite our paper:
     
     **Mint: Evaluating llms in multi-turn interaction with tools and language feedback**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2309.10691)
     
+    **Executable Code Actions Elicit Better LLM Agents**, ICML 2024. [[Paper]](https://arxiv.org/abs/2402.01030)
+    
+    **CodeNav: Beyond tool-use to using real-world codebases with LLM agents**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.12276)
+    
   - Others
     
     Chemical: **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting**, ACL 2023. [[Paper]](http://arxiv.org/abs/2305.16896)
@@ -414,6 +418,8 @@ If you find our work helps your research, please kindly cite our paper:
   - Tool Usage Awareness
     
     **MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2310.03128)
+    
+    **Can Tool-augmented Large Language Models be Aware of Incomplete Conditions?**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.12307)
     
   - Pass Rate & Win Rate
     
