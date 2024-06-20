@@ -332,6 +332,8 @@ If you find our work helps your research, please kindly cite our paper:
   **GeckOpt: LLM System Efficiency via Intent-Based Tool Selection**, GLSVLSI 2024. [[Paper]](https://arxiv.org/abs/2404.15804)
   
   **Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.11277v1)
+  
+  **Adaptive Selection for Homogeneous Tools: An Instantiation in the RAG Scenario**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.12429v1)
 
 #### Tool Calling.
 - ##### Tuning-free Methods
