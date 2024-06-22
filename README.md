@@ -4,7 +4,7 @@ Recently, tool learning with large language models~(LLMs) has emerged as a promi
 
 This is the collection of papers related to tool learning with LLMs. These papers are organized according to our survey paper ["Tool Learning with Large Language Models: A Survey"](https://arxiv.org/abs/2405.17935).
 
-We have noticed that PaperAgent and Wang Knowledge have provided a [brief](https://mp.weixin.qq.com/s/pPkrHHkmVC29e_c2U8YEGg) and a [comprehensive](https://mp.weixin.qq.com/s/SnvxsKmkgI_kHvwaLUK-0A) introduction in Chinese, respectively. We greatly appreciate their assistance.
+We have noticed that PaperAgent and 旺知识 have provided a [brief](https://mp.weixin.qq.com/s/pPkrHHkmVC29e_c2U8YEGg) and a [comprehensive](https://mp.weixin.qq.com/s/SnvxsKmkgI_kHvwaLUK-0A) introduction in Chinese, respectively. We greatly appreciate their assistance.
 
 Please feel free to contact us if you have any questions or suggestions!
 
