@@ -242,7 +242,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2308.03427)
   
-  **ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.13227)
+  **ToolChain\*: Efficient Action Space Navigation in Large Language Models with A\* Search**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.13227)
   
   **Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2312.04455)
   
@@ -264,7 +264,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Tool-Planner: Dynamic Solution Tree Planning for Large Language Model with Tool Clustering**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.03807)
   
-  
+  **Tools Fail: Detecting Silent Errors in Faulty Tools**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19228)
   
 - ##### Tuning-based Methods
   
