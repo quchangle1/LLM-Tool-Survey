@@ -1,6 +1,6 @@
 # Survey: Tool Learning with Large Language Models
 
-Recently, tool learning with large language models~(LLMs) has emerged as a promising paradigm for augmenting the capabilities of LLMs to tackle highly complex problems. 
+Recently, tool learning with large language models(LLMs) has emerged as a promising paradigm for augmenting the capabilities of LLMs to tackle highly complex problems. 
 
 This is the collection of papers related to tool learning with LLMs. These papers are organized according to our survey paper ["Tool Learning with Large Language Models: A Survey"](https://arxiv.org/abs/2405.17935).
 
@@ -140,6 +140,8 @@ If you find our work helps your research, please kindly cite our paper:
     **Executable Code Actions Elicit Better LLM Agents**, ICML 2024. [[Paper]](https://arxiv.org/abs/2402.01030)
     
     **CodeNav: Beyond tool-use to using real-world codebases with LLM agents**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.12276)
+    
+    **BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.15877)
     
   - Others
     
