@@ -141,6 +141,8 @@ If you find our work helps your research, please kindly cite our paper:
     
     **CodeNav: Beyond tool-use to using real-world codebases with LLM agents**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.12276)
     
+    **APPL: A Prompt Programming Language for Harmonious Integration of Programs and Large Language Model Prompts**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.13161)
+    
     **BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.15877)
     
   - Others
