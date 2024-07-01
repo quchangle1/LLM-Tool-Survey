@@ -155,6 +155,8 @@ If you find our work helps your research, please kindly cite our paper:
     
     Financial: **Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**, EACL 2024. [[Paper]](https://arxiv.org/abs/2401.15328)
     
+    Financial: **Simulating Financial Market via Large Language Model based Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19966)
+    
     Medical: **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.13225)
 
     Recommendation: **Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**, SIGIR 2024. [[Paper]](https://arxiv.org/abs/2405.15114)
@@ -201,6 +203,8 @@ If you find our work helps your research, please kindly cite our paper:
     **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2401.10727)
     
     **m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2403.11085)
+    
+    **From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19934)
     
   - Machine Translator
     
