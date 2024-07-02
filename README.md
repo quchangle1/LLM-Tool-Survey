@@ -297,6 +297,8 @@ If you find our work helps your research, please kindly cite our paper:
   **A Solution-based LLM API-using Methodology for Academic Information Seeking**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.15165)
   
   **Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.07115)
+  
+  **APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.18518)
 
 #### Tool Selection.
 - ##### Retriever-based Tool Selection
