@@ -151,6 +151,8 @@ If you find our work helps your research, please kindly cite our paper:
 
     **ChemCrow: Augmenting large-language models with chemistry tools**, Nature Machine Intelligence 2024. [[Paper]](https://arxiv.org/abs/2304.05376)
     
+    **A REVIEW OF LARGE LANGUAGE MODELS AND AUTONOMOUS AGENTS IN CHEMISTRY**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.01603)
+    
     Biomedical: **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**, ISMB 2024. [[Paper]](https://arxiv.org/abs/2304.09667)
     
     Financial: **Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**, EACL 2024. [[Paper]](https://arxiv.org/abs/2401.15328)
@@ -158,6 +160,8 @@ If you find our work helps your research, please kindly cite our paper:
     Financial: **Simulating Financial Market via Large Language Model based Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19966)
     
     Medical: **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.13225)
+    
+    **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.02483)
 
     Recommendation: **Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**, SIGIR 2024. [[Paper]](https://arxiv.org/abs/2405.15114)
 
@@ -365,6 +369,8 @@ If you find our work helps your research, please kindly cite our paper:
   **EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.06201)
   
   **Large Language Models as Zero-shot Dialogue State Tracker through Function Calling**, ACL 2024. [[Paper]](https://arxiv.org/abs/2402.10466)
+
+  **Concise and Precise Context Compression for Tool-Using Language Models**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.02043)
   
 - ##### Tuning-based Methods
   
