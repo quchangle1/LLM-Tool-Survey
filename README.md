@@ -278,6 +278,8 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Tools Fail: Detecting Silent Errors in Faulty Tools**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19228)
   
+  **What Affects the Stability of Tool Learning? An Empirical Study on the Robustness of Tool Learning Frameworks**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.03007)
+  
 - ##### Tuning-based Methods
   
   **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**, INTELLIGENT COMPUTING 2024. [[Paper]](https://arxiv.org/abs/2303.16434)
