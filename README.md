@@ -262,6 +262,8 @@ If you find our work helps your research, please kindly cite our paper:
   
   **From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.18157)
   
+  **Budget-Constrained Tool Learning with Planning**, ACL 2024 Findings. [[Paper]](http://arxiv.org/abs/2402.15960)
+  
   **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
   
   **Large Language Models Can Plan Your Travels Rigorously with Formal Verification Tools**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2404.11891)
@@ -372,7 +374,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Large Language Models as Zero-shot Dialogue State Tracker through Function Calling**, ACL 2024. [[Paper]](https://arxiv.org/abs/2402.10466)
 
-  **Concise and Precise Context Compression for Tool-Using Language Models**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.02043)
+  **Concise and Precise Context Compression for Tool-Using Language Models**, ACL 2024 Findings. [[Paper]](http://arxiv.org/abs/2407.02043)
   
 - ##### Tuning-based Methods
   
