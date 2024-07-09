@@ -145,6 +145,8 @@ If you find our work helps your research, please kindly cite our paper:
     
     **BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.15877)
     
+    **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges**, ACL 2024. [[Paper]](https://arxiv.org/abs/2401.07339)
+    
   - Others
     
     Chemical: **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting**, ACL 2023. [[Paper]](http://arxiv.org/abs/2305.16896)
@@ -256,7 +258,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **ToolChain\*: Efficient Action Space Navigation in Large Language Models with A\* Search**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.13227)
   
-  **Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2312.04455)
+  **Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use**, ACL 2024. [[Paper]](https://arxiv.org/abs/2312.04455)
   
   **TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.12869)
   
@@ -386,7 +388,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Tool-Augmented Reward Modeling**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.01045)
   
-  **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.04746)
+  **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, ACL 2024. [[Paper]](https://arxiv.org/abs/2403.04746)
   
 #### Response Generation.
 - ##### Direct Insertion Methods
