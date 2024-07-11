@@ -169,6 +169,9 @@ If you find our work helps your research, please kindly cite our paper:
 
     Gas Turbines: **DOMAIN-SPECIFIC ReAct FOR PHYSICS-INTEGRATED ITERATIVE MODELING: A CASE STUDY OF LLM AGENTS FOR GAS PATH ANALYSIS OF GAS TURBINES**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.07572v1)
 
+    **WORLDAPIS: The World Is Worth How Many APIs? A Thought Experiment**, ACL 2024 Workshop. [[Paper]](http://arxiv.org/abs/2407.07778)
+    
+
 - Automation and Efficiency.
   - Schedule Tools
     
