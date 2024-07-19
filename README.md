@@ -338,7 +338,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.17465)
   
-  **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
+  **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, CIKM 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
 
 - ##### LLM-based Tool Selection
   
@@ -476,7 +476,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   - COMP
     
-    **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
+    **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, CIKM 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
   
 - Tool Calling
   - Consistent with stipulations
