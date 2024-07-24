@@ -24,28 +24,26 @@ If you find our work helps your research, please kindly cite our paper:
 ```
 
 ## 📋 Contents
-- [Introduction](#🌟-introduction)
-- [Paper List](#📄-paper-list)
-  - [Why Tool Learning?](#why-tool-learning)
-    - [Benefit of Tool Integration](#benefit-of-tools)
-    - [Benefit of Tool Learning.](#benefit-of-tool-learning)
-  - [How Tool Learning?](#how-tool-learning)
-    - [Task Planning](#task-planning)
-      - [Tuning-free Methods](#tuning-free-methods)
-      - [Tuning-based Methods](#tuning-based-methods)
-    - [Tool Selection](#tool-selection)
-      - [Retriever-based Tool Selection](#retriever-based-tool-selection)
-      - [LLM-based Tool Selection](#llm-based-tool-selection)
-    - [Tool Calling](#tool-calling)
-      - [Tuning-free Methods](#tuning-free-methods-1)
-      - [Tuning-based Methods](#tuning-based-methods-1)
-    - [Response Generation](#response-generation)
-      - [Direct Insertion Methods](#direct-insertion-methods)
-      - [Information Integration Methods](#information-integration-methods)
-  - [Benchmarks and Evaluation](#benchmarks-and-evaluation)
-    - [Benchmarks](#benchmarks)
-    - [Evaluation](#evaluation)
-  - [Challenges and Future Directions](#challenges-and-future-directions)
+- [Survey: Tool Learning with Large Language Models](#survey-tool-learning-with-large-language-models)
+  - [Contribution](#contribution)
+  - [Citation](#citation)
+  - [📋 Contents](#-contents)
+  - [🌟 Introduction](#-introduction)
+      - [**The overall workflow for tool learning with large language models.**](#the-overall-workflow-for-tool-learning-with-large-language-models)
+  - [📄 Paper List](#-paper-list)
+    - [Why Tool Learning?](#why-tool-learning)
+      - [Benefit of Tools.](#benefit-of-tools)
+      - [Benefit of Tool Learning.](#benefit-of-tool-learning)
+    - [How Tool Learning?](#how-tool-learning)
+      - [Task Planning.](#task-planning)
+      - [Tool Selection.](#tool-selection)
+      - [Tool Calling.](#tool-calling)
+      - [Response Generation.](#response-generation)
+    - [Benchmarks and Evaluation.](#benchmarks-and-evaluation)
+      - [Benchmarks](#benchmarks)
+      - [Evaluation](#evaluation)
+    - [Challenges and Future Directions](#challenges-and-future-directions)
+    - [Other Resources](#other-resources)
 
 
 
@@ -443,6 +441,7 @@ If you find our work helps your research, please kindly cite our paper:
 | GeoLLM-QA | [[Paper]](https://arxiv.org/abs/2405.00709) | A novel benchmark of 1,000 diverse tasks, designed to capture complex RS workflows where LLMs handle complex data structures, nuanced reasoning, and interactions with dynamic user interfaces.(Remote Sensing) | 117 | 1,000 | [[Repo]]() | 2024-04 |
 | ToolLens | [[Paper]](https://arxiv.org/abs/2405.16089) | ToolLens includes concise yet intentionally multifaceted queries that better mimic real-world user interactions. (Tool Retrieval) | 464 | 18,770 | [[Repo]]() | 2024-05 |
 | SoAyBench | [[Paper]](https://arxiv.org/abs/2405.15165) | A Solution-based LLM API-using Methodology for Academic Information Seeking | 7 | 792 | [[Repo]](https://github.com/RUCKBReasoning/SoAy), [[HF]](https://huggingface.co/datasets/frederickwang99/SoAyBench) | 2024-05 |
+| ShortcutsBench | [[Paper]](https://arxiv.org/abs/2407.00132) | A Large-Scale Real-world Benchmark for API-based Agents | 1414 | 7627 | [[Repo]](https://github.com/eachsheep/shortcutsbench) | 2024-07 |
 
 #### Evaluation
 - Task Planning
@@ -465,7 +464,10 @@ If you find our work helps your research, please kindly cite our paper:
     **A Solution-based LLM API-using Methodology for Academic Information Seeking**, Preprint 2024. [[Paper](https://arxiv.org/abs/2405.15165)]
   
 - Tool Selection
-  
+  - Precision
+
+    **ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents**, Preprint 2024. [[Paper](https://github.com/eachsheep/shortcutsbench)]
+
   - Recall
     
     **Recall, precision and average precision**,Department of Statistics and Actuarial Science 2004. [[Paper]](https://www.researchgate.net/publication/228874142_Recall_precision_and_average_precision)
@@ -486,6 +488,8 @@ If you find our work helps your research, please kindly cite our paper:
     **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
     
     **ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios**, Preprint 2024. [[Paper3]](http://arxiv.org/abs/2401.00741)
+
+    **ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents**, Preprint 2024. [[Paper](https://github.com/eachsheep/shortcutsbench)]
   
 - Response Generation
   - BLEU
@@ -498,6 +502,11 @@ If you find our work helps your research, please kindly cite our paper:
     
     **cem: Coarsened exact matching in Stata**, The Stata Journal 2009. [[Paper]](https://gking.harvard.edu/files/cem-stata.pdf) 
   
+- Parameter Filling
+  - Precision
+
+    **ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents**, Preprint 2024. [[Paper](https://github.com/eachsheep/shortcutsbench)]
+
 ### Challenges and Future Directions
 
 - High Latency in Tool Learning
