@@ -336,6 +336,8 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.17465)
   
+  **Re-Invoke: Tool Invocation Rewriting for Zero-Shot Tool Retrieval**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2408.01875)
+  
   **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, CIKM 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
 
 - ##### LLM-based Tool Selection
