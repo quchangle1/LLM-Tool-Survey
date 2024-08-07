@@ -310,6 +310,8 @@ If you find our work helps your research, please kindly cite our paper:
   **Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.07115)
   
   **APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.18518)
+  
+  **MetaTool: Facilitating Large Language Models to Master Tools with Meta-task Augmentation**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.12871)
 
 #### Tool Selection.
 - ##### Retriever-based Tool Selection
