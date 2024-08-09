@@ -121,6 +121,8 @@ If you find our work helps your research, please kindly cite our paper:
     
     **Calc-CMU at SemEval-2024 Task 7: Pre-Calc -- Learning to Use the Calculator Improves Numeracy in Language Models**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.14355)
     
+    **MathViz-E: A Case-study in Domain-Specialized Tool-Using Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.17544)
+    
   - Python Interpreter
     
     **Pal: Program-aided language models**, ICML 2023. [[Paper]](https://arxiv.org/abs/2211.10435)
@@ -447,6 +449,8 @@ If you find our work helps your research, please kindly cite our paper:
 | SoAyBench | [[Paper]](https://arxiv.org/abs/2405.15165) | A Solution-based LLM API-using Methodology for Academic Information Seeking | 7 | 792 | [[Repo]](https://github.com/RUCKBReasoning/SoAy), [[HF]](https://huggingface.co/datasets/frederickwang99/SoAyBench) | 2024-05 |
 | ShortcutsBench | [[Paper]](https://arxiv.org/abs/2407.00132) | A Large-Scale Real-world Benchmark for API-based Agents | 1414 | 7627 | [[Repo]](https://github.com/eachsheep/shortcutsbench) | 2024-07 |
 | GTA | [[Paper]](http://arxiv.org/abs/2407.08713) | A Benchmark for General Tool Agents | 229 | 14 | [[Repo]](https://github.com/open-compass/GTA) | 2024-07 |
+| WTU-Eval | [[Paper]](http://arxiv.org/abs/2407.12823) | A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models | 916 | 4 | [[Repo]]() | 2024-07 |
+| AppWorld | [[Paper]](http://arxiv.org/abs/2407.18901) | A collection of complex everyday tasks requiring interactive coding with API calls | 750 | 457 | [[Repo]]() | 2024-07 |
 
 #### Evaluation
 - Task Planning
