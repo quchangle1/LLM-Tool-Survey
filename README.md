@@ -451,6 +451,7 @@ If you find our work helps your research, please kindly cite our paper:
 | GTA | [[Paper]](http://arxiv.org/abs/2407.08713) | A Benchmark for General Tool Agents | 229 | 14 | [[Repo]](https://github.com/open-compass/GTA) | 2024-07 |
 | WTU-Eval | [[Paper]](http://arxiv.org/abs/2407.12823) | A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models | 916 | 4 | [[Repo]]() | 2024-07 |
 | AppWorld | [[Paper]](http://arxiv.org/abs/2407.18901) | A collection of complex everyday tasks requiring interactive coding with API calls | 750 | 457 | [[Repo]]() | 2024-07 |
+| ToolSandbox | [[Paper]](http://arxiv.org/abs/2408.04682) | A stateful, conversational and interactive tool-use benchmark. | 34 | 1032 | [[Repo]](https://github.com/apple/ToolSandbox) | 2024-08 |
 
 #### Evaluation
 - Task Planning
