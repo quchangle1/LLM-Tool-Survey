@@ -265,6 +265,8 @@ If you find our work helps your research, please kindly cite our paper:
   
   **TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.12869)
   
+  **SwissNYF: Tool Grounded LLM Agents for Black Box Setting**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2402.10051)
+  
   **From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.18157)
   
   **Budget-Constrained Tool Learning with Planning**, ACL 2024 Findings. [[Paper]](http://arxiv.org/abs/2402.15960)
@@ -286,6 +288,8 @@ If you find our work helps your research, please kindly cite our paper:
   **Tools Fail: Detecting Silent Errors in Faulty Tools**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19228)
   
   **What Affects the Stability of Tool Learning? An Empirical Study on the Robustness of Tool Learning Frameworks**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.03007)
+  
+  **Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.21778)
   
 - ##### Tuning-based Methods
   
