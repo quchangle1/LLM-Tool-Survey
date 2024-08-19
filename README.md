@@ -456,6 +456,7 @@ If you find our work helps your research, please kindly cite our paper:
 | WTU-Eval | [[Paper]](http://arxiv.org/abs/2407.12823) | A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models | 916 | 4 | [[Repo]]() | 2024-07 |
 | AppWorld | [[Paper]](http://arxiv.org/abs/2407.18901) | A collection of complex everyday tasks requiring interactive coding with API calls | 750 | 457 | [[Repo]]() | 2024-07 |
 | ToolSandbox | [[Paper]](http://arxiv.org/abs/2408.04682) | A stateful, conversational and interactive tool-use benchmark. | 34 | 1032 | [[Repo]](https://github.com/apple/ToolSandbox) | 2024-08 |
+| CToolEval | [[Paper]](https://aclanthology.org/2024.findings-acl.928) | A benchmark designed to evaluate  LLMs in the context of Chinese societal applications. | 27 | 398 | [[Repo]](https://github.com/tjunlp-lab/CToolEval.) | 2024-08 |
 
 #### Evaluation
 - Task Planning
