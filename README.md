@@ -161,6 +161,8 @@ If you find our work helps your research, please kindly cite our paper:
     
     Financial: **Simulating Financial Market via Large Language Model based Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19966)
     
+    Financial: **A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**, KDD 2024. [[Paper]](https://arxiv.org/abs/2402.18485)
+    
     Medical: **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.13225)
     
     **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.02483)
