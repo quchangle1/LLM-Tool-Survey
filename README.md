@@ -454,9 +454,9 @@ If you find our work helps your research, please kindly cite our paper:
 | ToolLens | [[Paper]](https://arxiv.org/abs/2405.16089) | ToolLens includes concise yet intentionally multifaceted queries that better mimic real-world user interactions. (Tool Retrieval) | 464 | 18,770 | [[Repo]](https://github.com/quchangle1/COLT) | 2024-05 |
 | SoAyBench | [[Paper]](https://arxiv.org/abs/2405.15165) | A Solution-based LLM API-using Methodology for Academic Information Seeking | 7 | 792 | [[Repo]](https://github.com/RUCKBReasoning/SoAy), [[HF]](https://huggingface.co/datasets/frederickwang99/SoAyBench) | 2024-05 |
 | ShortcutsBench | [[Paper]](https://arxiv.org/abs/2407.00132) | A Large-Scale Real-world Benchmark for API-based Agents | 1414 | 7627 | [[Repo]](https://github.com/eachsheep/shortcutsbench) | 2024-07 |
-| GTA | [[Paper]](http://arxiv.org/abs/2407.08713) | A Benchmark for General Tool Agents | 229 | 14 | [[Repo]](https://github.com/open-compass/GTA) | 2024-07 |
-| WTU-Eval | [[Paper]](http://arxiv.org/abs/2407.12823) | A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models | 916 | 4 | [[Repo]]() | 2024-07 |
-| AppWorld | [[Paper]](http://arxiv.org/abs/2407.18901) | A collection of complex everyday tasks requiring interactive coding with API calls | 750 | 457 | [[Repo]]() | 2024-07 |
+| GTA | [[Paper]](http://arxiv.org/abs/2407.08713) | A Benchmark for General Tool Agents | 14 | 229 | [[Repo]](https://github.com/open-compass/GTA) | 2024-07 |
+| WTU-Eval | [[Paper]](http://arxiv.org/abs/2407.12823) | A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models | 4 | 916 | [[Repo]]() | 2024-07 |
+| AppWorld | [[Paper]](http://arxiv.org/abs/2407.18901) | A collection of complex everyday tasks requiring interactive coding with API calls | 457 | 750 | [[Repo]](https://appworld.dev/) | 2024-07 |
 | ToolSandbox | [[Paper]](http://arxiv.org/abs/2408.04682) | A stateful, conversational and interactive tool-use benchmark. | 34 | 1032 | [[Repo]](https://github.com/apple/ToolSandbox) | 2024-08 |
 | CToolEval | [[Paper]](https://aclanthology.org/2024.findings-acl.928) | A benchmark designed to evaluate  LLMs in the context of Chinese societal applications. | 27 | 398 | [[Repo]](https://github.com/tjunlp-lab/CToolEval.) | 2024-08 |
 
