@@ -173,6 +173,10 @@ If you find our work helps your research, please kindly cite our paper:
 
     **WORLDAPIS: The World Is Worth How Many APIs? A Thought Experiment**, ACL 2024 Workshop. [[Paper]](http://arxiv.org/abs/2407.07778)
     
+    **Tool-Assisted Agent on SQL Inspection and Refinement in Real-World Scenarios**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2408.16991)
+    
+    **HoneyComb: A Flexible LLM-Based Agent System for Materials Science**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.00135)
+    
 
 - Automation and Efficiency.
   - Schedule Tools
@@ -348,6 +352,8 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Re-Invoke: Tool Invocation Rewriting for Zero-Shot Tool Retrieval**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2408.01875)
   
+  **Efficient and Scalable Estimation of Tool Representations  in Vector Space**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.02141)
+  
   **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, CIKM 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
 
 - ##### LLM-based Tool Selection
@@ -402,6 +408,8 @@ If you find our work helps your research, please kindly cite our paper:
   **Tool-Augmented Reward Modeling**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.01045)
   
   **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, ACL 2024. [[Paper]](https://arxiv.org/abs/2403.04746)
+  
+  **ToolACE: Winning the Points of LLM Function Calling**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.00920)
   
 #### Response Generation.
 - ##### Direct Insertion Methods
@@ -459,6 +467,7 @@ If you find our work helps your research, please kindly cite our paper:
 | AppWorld | [[Paper]](http://arxiv.org/abs/2407.18901) | A collection of complex everyday tasks requiring interactive coding with API calls | 457 | 750 | [[Repo]](https://appworld.dev/) | 2024-07 |
 | ToolSandbox | [[Paper]](http://arxiv.org/abs/2408.04682) | A stateful, conversational and interactive tool-use benchmark. | 34 | 1032 | [[Repo]](https://github.com/apple/ToolSandbox) | 2024-08 |
 | CToolEval | [[Paper]](https://aclanthology.org/2024.findings-acl.928) | A benchmark designed to evaluate  LLMs in the context of Chinese societal applications. | 27 | 398 | [[Repo]](https://github.com/tjunlp-lab/CToolEval.) | 2024-08 |
+| NoisyToolBench | [[Paper]](http://arxiv.org/abs/2409.00557) | This benchmark includes a collection of provided APIs, ambiguous queries, anticipated questions for clarification, and the corresponding responses. | - | 200 | [[Repo]]() | 2024-09 |
 
 #### Evaluation
 - Task Planning
