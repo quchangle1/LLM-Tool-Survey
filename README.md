@@ -411,6 +411,8 @@ If you find our work helps your research, please kindly cite our paper:
   
   **ToolACE: Winning the Points of LLM Function Calling**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.00920)
   
+  **CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.13202)
+  
 #### Response Generation.
 - ##### Direct Insertion Methods
   
