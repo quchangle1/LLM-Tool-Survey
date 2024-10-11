@@ -373,6 +373,8 @@ If you find our work helps your research, please kindly cite our paper:
   **ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.00839)
   
   **GeckOpt: LLM System Efficiency via Intent-Based Tool Selection**, GLSVLSI 2024. [[Paper]](https://arxiv.org/abs/2404.15804)
+
+  **AvaTaR: Optimizing LLM Agents for Tool-Assisted Knowledge Retrieval**, NeurIPS 2024. [[Paper]](https://arxiv.org/abs/2406.11200)
   
   **Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.11277v1)
   
