@@ -82,7 +82,7 @@ If you find our work helps your research, please kindly cite our paper:
     
     **Lamda: Language models for dialog applications**, Preprint 2022. [[Paper]](https://arxiv.org/abs/2201.08239)
     
-    **Gorilla: Large Language Model Connected with Massive APIs**, Preprint 2023. [[Paper]](http://arxiv.org/abs/2305.15334)
+    **Gorilla: Large Language Model Connected with Massive APIs**, NeurIPS 2024. [[Paper]](http://arxiv.org/abs/2305.15334)
     
     **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2305.11554)
     
@@ -319,7 +319,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **A Solution-based LLM API-using Methodology for Academic Information Seeking**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2405.15165)
   
-  **Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.07115)
+  **Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees**, NeurIPS 2024. [[Paper]](https://arxiv.org/abs/2406.07115)
   
   **APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.18518)
   
@@ -399,7 +399,7 @@ If you find our work helps your research, please kindly cite our paper:
   
 - ##### Tuning-based Methods
   
-  **Gorilla: Large Language Model Connected with Massive APIs**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2305.15334)
+  **Gorilla: Large Language Model Connected with Massive APIs**, NeurIPS 2024. [[Paper]](https://arxiv.org/abs/2305.15334)
   
   **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2305.18752)
   
