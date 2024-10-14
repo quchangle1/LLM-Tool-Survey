@@ -90,7 +90,7 @@ If you find our work helps your research, please kindly cite our paper:
     
     **Syntax Error-Free and Generalizable Tool Use for LLMs via Finite-State Decoding**, NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2310.07075)
     
-    **Middleware for LLMs: Tools are Instrumental for Language Agents in Complex Environments**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.14672)
+    **Middleware for LLMs: Tools are Instrumental for Language Agents in Complex Environments**, EMNLP 2024. [[Paper]](https://arxiv.org/abs/2402.14672)
     
   - Weather or Map
     
@@ -146,6 +146,9 @@ If you find our work helps your research, please kindly cite our paper:
     **BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.15877)
     
     **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges**, ACL 2024. [[Paper]](https://arxiv.org/abs/2401.07339)
+
+    **MuMath-Code: Combining Tool-Use Large Language Models with Multi-perspective Data Augmentation for Mathematical Reasoning**, EMNLP 2024. [[Paper]](http://arxiv.org/abs/2405.07551)
+    
     
   - Others
     
@@ -414,6 +417,8 @@ If you find our work helps your research, please kindly cite our paper:
   **ToolACE: Winning the Points of LLM Function Calling**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.00920)
   
   **CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.13202)
+  
+  **Quality Matters: Evaluating Synthetic Data for Tool-Using LLMs**, EMNLP 2024. [[Paper]](http://arxiv.org/abs/2409.16341)
   
 #### Response Generation.
 - ##### Direct Insertion Methods
