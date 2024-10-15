@@ -6,6 +6,8 @@ This is the collection of papers related to tool learning with LLMs. These paper
 
 **中文:** We have noticed that PaperAgent and 旺知识 have provided a [brief](https://mp.weixin.qq.com/s/pPkrHHkmVC29e_c2U8YEGg) and a [comprehensive](https://mp.weixin.qq.com/s/SnvxsKmkgI_kHvwaLUK-0A) introduction in Chinese, respectively. We greatly appreciate their assistance.
 
+:tada::+1: Our survey paper is accepted by **Frontiers of Computer Science**. New version of our paper will be released soon!
+
 Please feel free to contact us if you have any questions or suggestions!
 
 ## Contribution
