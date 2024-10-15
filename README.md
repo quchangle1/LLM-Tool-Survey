@@ -579,4 +579,4 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Tool Learning with Foundation Models**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2304.08354)
   
-  **What Are Tools Anyway? A Survey from the Language Model Perspective**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.15452)
+  **What Are Tools Anyway? A Survey from the Language Model Perspective**, COLM 2024. [[Paper]](https://arxiv.org/abs/2403.15452)
