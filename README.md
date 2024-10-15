@@ -152,33 +152,36 @@ If you find our work helps your research, please kindly cite our paper:
     
   - Others
     
-    Chemical: **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting**, ACL 2023. [[Paper]](http://arxiv.org/abs/2305.16896)
+    **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting**, ACL 2023. [[Paper]](http://arxiv.org/abs/2305.16896)
 
     **ChemCrow: Augmenting large-language models with chemistry tools**, Nature Machine Intelligence 2024. [[Paper]](https://arxiv.org/abs/2304.05376)
     
     **A REVIEW OF LARGE LANGUAGE MODELS AND AUTONOMOUS AGENTS IN CHEMISTRY**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.01603)
     
-    Biomedical: **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**, ISMB 2024. [[Paper]](https://arxiv.org/abs/2304.09667)
+    **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**, ISMB 2024. [[Paper]](https://arxiv.org/abs/2304.09667)
     
-    Financial: **Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**, EACL 2024. [[Paper]](https://arxiv.org/abs/2401.15328)
+    **Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**, EACL 2024. [[Paper]](https://arxiv.org/abs/2401.15328)
     
-    Financial: **Simulating Financial Market via Large Language Model based Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19966)
+    **Simulating Financial Market via Large Language Model based Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19966)
     
-    Financial: **A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**, KDD 2024. [[Paper]](https://arxiv.org/abs/2402.18485)
+    **A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**, KDD 2024. [[Paper]](https://arxiv.org/abs/2402.18485)
     
-    Medical: **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.13225)
+    **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.13225)
     
-    **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.02483)
+    **SCIAGENT: Tool-augmented Language Models for Scientific Reasoning**, EMNLP 2024. [[Paper]](http://arxiv.org/abs/2402.11451)
+    
+    **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**, EMNLP 2024 Findings. [[Paper]](http://arxiv.org/abs/2407.02483)
 
-    Recommendation: **Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**, SIGIR 2024. [[Paper]](https://arxiv.org/abs/2405.15114)
+    **Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**, SIGIR 2024. [[Paper]](https://arxiv.org/abs/2405.15114)
 
-    Gas Turbines: **DOMAIN-SPECIFIC ReAct FOR PHYSICS-INTEGRATED ITERATIVE MODELING: A CASE STUDY OF LLM AGENTS FOR GAS PATH ANALYSIS OF GAS TURBINES**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.07572v1)
+    **DOMAIN-SPECIFIC ReAct FOR PHYSICS-INTEGRATED ITERATIVE MODELING: A CASE STUDY OF LLM AGENTS FOR GAS PATH ANALYSIS OF GAS TURBINES**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.07572v1)
 
     **WORLDAPIS: The World Is Worth How Many APIs? A Thought Experiment**, ACL 2024 Workshop. [[Paper]](http://arxiv.org/abs/2407.07778)
     
     **Tool-Assisted Agent on SQL Inspection and Refinement in Real-World Scenarios**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2408.16991)
     
     **HoneyComb: A Flexible LLM-Based Agent System for Materials Science**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.00135)
+    
     
 
 - Automation and Efficiency.
@@ -294,11 +297,13 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Tool-Planner: Dynamic Solution Tree Planning for Large Language Model with Tool Clustering**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.03807)
   
-  **Tools Fail: Detecting Silent Errors in Faulty Tools**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2406.19228)
+  **Tools Fail: Detecting Silent Errors in Faulty Tools**, EMNLP 2024. [[Paper]](http://arxiv.org/abs/2406.19228)
   
   **What Affects the Stability of Tool Learning? An Empirical Study on the Robustness of Tool Learning Frameworks**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.03007)
   
   **Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.21778)
+
+  **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.08197)
   
 - ##### Tuning-based Methods
   
@@ -314,7 +319,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering**, ECIR 2024. [[Paper]](https://arxiv.org/abs/2401.01780)
   
-  **Small LLMs Are Weak Tool Learners: A Multi-LLM Agent**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.07324)
+  **Small LLMs Are Weak Tool Learners: A Multi-LLM Agent**, EMNLP 2024. [[Paper]](https://arxiv.org/abs/2401.07324)
   
   **Efficient Tool Use with Chain-of-Abstraction Reasoning**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.17464)
   
@@ -327,6 +332,8 @@ If you find our work helps your research, please kindly cite our paper:
   **APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.18518)
   
   **MetaTool: Facilitating Large Language Models to Master Tools with Meta-task Augmentation**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.12871)
+  
+  **ToolPlanner: A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback**, EMNLP 2024. [[Paper]](http://arxiv.org/abs/2409.14826)
 
 #### Tool Selection.
 - ##### Retriever-based Tool Selection
@@ -351,9 +358,9 @@ If you find our work helps your research, please kindly cite our paper:
   
   **ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval**, COLING 2024. [[Paper]](https://arxiv.org/abs/2403.06551)
   
-  **Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.17465)
+  **Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**, EMNLP 2024 Findings. [[Paper]](https://arxiv.org/abs/2406.17465)
   
-  **Re-Invoke: Tool Invocation Rewriting for Zero-Shot Tool Retrieval**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2408.01875)
+  **Re-Invoke: Tool Invocation Rewriting for Zero-Shot Tool Retrieval**, EMNLP 2024 Findings. [[Paper]](http://arxiv.org/abs/2408.01875)
   
   **Efficient and Scalable Estimation of Tool Representations  in Vector Space**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.02141)
   
@@ -371,7 +378,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.04253)
   
-  **TOOLVERIFIER: Generalization to New Tools via Self-Verification**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2402.14158)
+  **TOOLVERIFIER: Generalization to New Tools via Self-Verification**, EMNLP 2024 Findings. [[Paper]](https://arxiv.org/abs/2402.14158)
   
   **ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.00839)
   
@@ -381,7 +388,9 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.11277v1)
   
-  **Adaptive Selection for Homogeneous Tools: An Instantiation in the RAG Scenario**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.12429v1)
+  **Adaptive Selection for Homogeneous Tools: An Instantiation in the RAG Scenario**, EMNLP 2024 Findings. [[Paper]](https://arxiv.org/abs/2406.12429v1)
+  
+  **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.08197)
 
 #### Tool Calling.
 - ##### Tuning-free Methods
@@ -435,7 +444,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2310.04408)
   
-  **Learning to Use Tools via Cooperative and Interactive Agents**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.03031)
+  **Learning to Use Tools via Cooperative and Interactive Agents**, EMNLP 2024 Findings. [[Paper]](https://arxiv.org/abs/2403.03031)
 
 
 ### Benchmarks and Evaluation.
@@ -470,6 +479,7 @@ If you find our work helps your research, please kindly cite our paper:
 | GeoLLM-QA | [[Paper]](https://arxiv.org/abs/2405.00709) | A novel benchmark of 1,000 diverse tasks, designed to capture complex RS workflows where LLMs handle complex data structures, nuanced reasoning, and interactions with dynamic user interfaces.(Remote Sensing) | 117 | 1,000 | [[Repo]]() | 2024-04 |
 | ToolLens | [[Paper]](https://arxiv.org/abs/2405.16089) | ToolLens includes concise yet intentionally multifaceted queries that better mimic real-world user interactions. (Tool Retrieval) | 464 | 18,770 | [[Repo]](https://github.com/quchangle1/COLT) | 2024-05 |
 | SoAyBench | [[Paper]](https://arxiv.org/abs/2405.15165) | A Solution-based LLM API-using Methodology for Academic Information Seeking | 7 | 792 | [[Repo]](https://github.com/RUCKBReasoning/SoAy), [[HF]](https://huggingface.co/datasets/frederickwang99/SoAyBench) | 2024-05 |
+| ToolBH | [[Paper]](http://arxiv.org/abs/2406.20015) | A benchmark that assesses the LLM’s hallucinations through two perspectives: depth and breadth. | - | 700 | [[Repo]](https://github.com/ToolBeHonest/ToolBeHonest) | 2024-06 |
 | ShortcutsBench | [[Paper]](https://arxiv.org/abs/2407.00132) | A Large-Scale Real-world Benchmark for API-based Agents | 1414 | 7627 | [[Repo]](https://github.com/eachsheep/shortcutsbench) | 2024-07 |
 | GTA | [[Paper]](http://arxiv.org/abs/2407.08713) | A Benchmark for General Tool Agents | 14 | 229 | [[Repo]](https://github.com/open-compass/GTA) | 2024-07 |
 | WTU-Eval | [[Paper]](http://arxiv.org/abs/2407.12823) | A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models | 4 | 916 | [[Repo]]() | 2024-07 |
