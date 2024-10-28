@@ -367,6 +367,8 @@ If you find our work helps your research, please kindly cite our paper:
   **Re-Invoke: Tool Invocation Rewriting for Zero-Shot Tool Retrieval**, EMNLP 2024 Findings. [[Paper]](http://arxiv.org/abs/2408.01875)
   
   **Efficient and Scalable Estimation of Tool Representations  in Vector Space**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.02141)
+
+  **Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2410.14594)
   
   **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, CIKM 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
 
@@ -393,8 +395,6 @@ If you find our work helps your research, please kindly cite our paper:
   **Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2406.11277v1)
   
   **Adaptive Selection for Homogeneous Tools: An Instantiation in the RAG Scenario**, EMNLP 2024 Findings. [[Paper]](https://arxiv.org/abs/2406.12429v1)
-
-  **Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2410.14594)
   
   **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.08197)
 
