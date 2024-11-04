@@ -508,7 +508,7 @@ If you find our work helps your research, please kindly cite our paper:
     
   - Accuracy
     
-    **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step**, ICLR 2024. [[Paper]](http://arxiv.org/abs/2312.14033)
+    **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step**, ACL 2024. [[Paper]](http://arxiv.org/abs/2312.14033)
     
     **RestGPT: Connecting Large Language Models with Real-World RESTful APIs**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2306.06624)
     
@@ -534,7 +534,7 @@ If you find our work helps your research, please kindly cite our paper:
 - Tool Calling
   - Consistent with stipulations
   
-    **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2312.14033)
+    **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step**, ACL 2024. [[Paper]](http://arxiv.org/abs/2312.14033)
     
     **Planning and Editing What You Retrieve for Enhanced Tool Learning**, NAACL 2024. [[Paper]](https://arxiv.org/abs/2404.00450)
     
