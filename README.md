@@ -307,7 +307,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2410.14594)
 
-  **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.08197)
+  **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, ICLR 2025. [[Paper]](http://arxiv.org/abs/2410.08197)
   
 - ##### Tuning-based Methods
   
@@ -396,7 +396,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Adaptive Selection for Homogeneous Tools: An Instantiation in the RAG Scenario**, EMNLP 2024 Findings. [[Paper]](https://arxiv.org/abs/2406.12429v1)
   
-  **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.08197)
+  **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, ICLR 2025. [[Paper]](http://arxiv.org/abs/2410.08197)
 
 #### Tool Calling.
 - ##### Tuning-free Methods
