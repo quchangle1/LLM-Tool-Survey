@@ -17,11 +17,15 @@ Please feel free to contact us if you have any questions or suggestions!
 If you find our work helps your research, please kindly cite our paper:
 
 ```BibTex
-@article{qu2024toolsurvey,
-    author={Qu, Changle and Dai, Sunhao and Wei, Xiaochi and Cai, Hengyi and Wang, Shuaiqiang and Yin, Dawei and Xu, Jun and Wen, Ji-Rong},
-    title={Tool Learning with Large Language Models: A Survey},
-    journal={arXiv preprint arXiv:2405.17935},
-    year={2024}
+@article{qu2025tool,
+  title={Tool learning with large language models: A survey},
+  author={Qu, Changle and Dai, Sunhao and Wei, Xiaochi and Cai, Hengyi and Wang, Shuaiqiang and Yin, Dawei and Xu, Jun and Wen, Ji-Rong},
+  journal={Frontiers of Computer Science},
+  volume={19},
+  number={8},
+  pages={198343},
+  year={2025},
+  publisher={Springer}
 }
 ```
 
