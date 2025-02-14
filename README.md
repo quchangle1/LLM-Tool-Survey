@@ -433,7 +433,7 @@ If you find our work helps your research, please kindly cite our paper:
   
   **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, ACL 2024. [[Paper]](https://arxiv.org/abs/2403.04746)
   
-  **ToolACE: Winning the Points of LLM Function Calling**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.00920)
+  **ToolACE: Winning the Points of LLM Function Calling**, ICLR 2025. [[Paper]](http://arxiv.org/abs/2409.00920)
   
   **CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.13202)
   
