@@ -155,6 +155,8 @@ If you find our work helps your research, please kindly cite our paper:
 
     **MuMath-Code: Combining Tool-Use Large Language Models with Multi-perspective Data Augmentation for Mathematical Reasoning**, EMNLP 2024. [[Paper]](http://arxiv.org/abs/2405.07551)
     
+    **Efficient Multi-Agent Collaboration with Tool Use for Online Planning in Complex Table Question Answering**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2412.20145)
+    
     
   - Others
     
@@ -165,8 +167,6 @@ If you find our work helps your research, please kindly cite our paper:
     **A REVIEW OF LARGE LANGUAGE MODELS AND AUTONOMOUS AGENTS IN CHEMISTRY**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.01603)
     
     **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**, ISMB 2024. [[Paper]](https://arxiv.org/abs/2304.09667)
- 
-    **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2311.05437)
     
     **Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**, EACL 2024. [[Paper]](https://arxiv.org/abs/2401.15328)
     
@@ -230,6 +230,8 @@ If you find our work helps your research, please kindly cite our paper:
     **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2305.05662)
     
     **AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2306.08640)
+    
+    **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2311.05437)
     
     **CLOVA: A closed-loop visual assistant with tool usage and update**, CVPR 2024. [[Paper]](https://arxiv.org/abs/2312.10908)
     
@@ -358,8 +360,14 @@ If you find our work helps your research, please kindly cite our paper:
   **ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.18447)
   
   **Meta-Reasoning Improves Tool Use in Large Language Models**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2411.04535)
+
+  **Teaching LLMs to Refine with Tools**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2412.16871)
+  
+  **Language hooks: a modular framework for augmenting LLM reasoning that decouples tool usage from the model and its prompt**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2412.05967)
   
   **Boosting Tool Use of Large Language Models via Iterative Reinforced Fine-Tuning**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2501.09766)
+  
+  **Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.04644)
 
 #### Tool Selection.
 - ##### Retriever-based Tool Selection
@@ -395,6 +403,8 @@ If you find our work helps your research, please kindly cite our paper:
   **Towards Completeness-Oriented Tool Retrieval for Large Language Models**, CIKM 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
   
   **Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.14594)
+  
+  **Graph RAG-Tool Fusion**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.07223)
 
 - ##### LLM-based Tool Selection
   
@@ -431,6 +441,12 @@ If you find our work helps your research, please kindly cite our paper:
   **Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2411.00412)
   
   **Reducing Tool Hallucination via Reliability Alignment**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2412.04141)
+  
+  **TL-Training: A Task-Feature-Based Framework for Training Large Language Models in Tool Use**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2412.15495)
+  
+  **Can a Single Model Master Both Multi-turn Conversations and Tool Use? CALM: A Unified Conversational Agentic Language Model**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.08820)
+  
+  **Tool Unlearning for Tool-Augmented LLMs**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.01083)
   
   **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, ICLR 2025. [[Paper]](http://arxiv.org/abs/2410.08197)
 
@@ -476,6 +492,10 @@ If you find our work helps your research, please kindly cite our paper:
   **Asynchronous LLM Function Calling**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2412.07017)
   
   **Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2501.12432)
+  
+  **Self-Training Large Language Models for Tool-Use Without Demonstrations**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.05867)
+  
+  **Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.06589)
   
 #### Response Generation.
 - ##### Direct Insertion Methods
