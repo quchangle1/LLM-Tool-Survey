@@ -165,6 +165,8 @@ If you find our work helps your research, please kindly cite our paper:
     **A REVIEW OF LARGE LANGUAGE MODELS AND AUTONOMOUS AGENTS IN CHEMISTRY**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.01603)
     
     **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**, ISMB 2024. [[Paper]](https://arxiv.org/abs/2304.09667)
+ 
+    **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2311.05437)
     
     **Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**, EACL 2024. [[Paper]](https://arxiv.org/abs/2401.15328)
     
@@ -187,6 +189,12 @@ If you find our work helps your research, please kindly cite our paper:
     **Tool-Assisted Agent on SQL Inspection and Refinement in Real-World Scenarios**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2408.16991)
     
     **HoneyComb: A Flexible LLM-Based Agent System for Materials Science**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.00135)
+    
+    **MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling**, NAACL 2025. [[Paper]](http://arxiv.org/abs/2410.13610)
+    
+    **ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.17657)
+    
+    **TOOL-ED: Enhancing Empathetic Response Generation with the Tool Calling Capability of LLM**, COLING 2025. [[Paper]](http://arxiv.org/abs/2412.03096)
     
     
 
@@ -342,6 +350,16 @@ If you find our work helps your research, please kindly cite our paper:
   **MetaTool: Facilitating Large Language Models to Master Tools with Meta-task Augmentation**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2407.12871)
   
   **ToolPlanner: A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback**, EMNLP 2024. [[Paper]](http://arxiv.org/abs/2409.14826)
+  
+  **Learning Evolving Tools for Large Language Models**, ICLR 2025. [[Paper]](http://arxiv.org/abs/2410.06617)
+  
+  **StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning in LLMs**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.07745)
+  
+  **ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.18447)
+  
+  **Meta-Reasoning Improves Tool Use in Large Language Models**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2411.04535)
+  
+  **Boosting Tool Use of Large Language Models via Iterative Reinforced Fine-Tuning**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2501.09766)
 
 #### Tool Selection.
 - ##### Retriever-based Tool Selection
@@ -374,7 +392,9 @@ If you find our work helps your research, please kindly cite our paper:
 
   **Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2410.14594)
   
-  **COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models**, CIKM 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
+  **Towards Completeness-Oriented Tool Retrieval for Large Language Models**, CIKM 2024. [[Paper]](https://arxiv.org/abs/2405.16089)
+  
+  **Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.14594)
 
 - ##### LLM-based Tool Selection
   
@@ -400,6 +420,18 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Adaptive Selection for Homogeneous Tools: An Instantiation in the RAG Scenario**, EMNLP 2024 Findings. [[Paper]](https://arxiv.org/abs/2406.12429v1)
   
+  **ToolBridge: An Open-Source Dataset to Equip LLMs with External Tool Capabilities**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.10872)
+
+  **ToolGen: Unified Tool Retrieval and Calling via Generation**, ICLR 2025. [[Paper]](http://arxiv.org/abs/2410.03439)
+  
+  **Toolken+: Improving LLM Tool Usage with Reranking and a Reject Option**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2410.12004)
+  
+  **EcoAct: Economic Agent Determines When to Register What Action**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2411.01643)
+  
+  **Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2411.00412)
+  
+  **Reducing Tool Hallucination via Reliability Alignment**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2412.04141)
+  
   **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, ICLR 2025. [[Paper]](http://arxiv.org/abs/2410.08197)
 
 #### Tool Calling.
@@ -421,6 +453,8 @@ If you find our work helps your research, please kindly cite our paper:
 
   **Concise and Precise Context Compression for Tool-Using Language Models**, ACL 2024 Findings. [[Paper]](http://arxiv.org/abs/2407.02043)
   
+  **AutoFeedback: An LLM-based Framework for Efficient and Accurate API Request Generation**, ACL 2024 Findings. [[Paper]](http://arxiv.org/abs/2410.06943)
+  
 - ##### Tuning-based Methods
   
   **Gorilla: Large Language Model Connected with Massive APIs**, NeurIPS 2024. [[Paper]](https://arxiv.org/abs/2305.15334)
@@ -438,6 +472,10 @@ If you find our work helps your research, please kindly cite our paper:
   **CITI: Enhancing Tool Utilizing Ability in Large Language Models without Sacrificing General Performance**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2409.13202)
   
   **Quality Matters: Evaluating Synthetic Data for Tool-Using LLMs**, EMNLP 2024. [[Paper]](http://arxiv.org/abs/2409.16341)
+  
+  **Asynchronous LLM Function Calling**, Preprint 2024. [[Paper]](http://arxiv.org/abs/2412.07017)
+  
+  **Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2501.12432)
   
 #### Response Generation.
 - ##### Direct Insertion Methods
@@ -497,6 +535,11 @@ If you find our work helps your research, please kindly cite our paper:
 | ToolSandbox | [[Paper]](http://arxiv.org/abs/2408.04682) | A stateful, conversational and interactive tool-use benchmark. | 34 | 1032 | [[Repo]](https://github.com/apple/ToolSandbox) | 2024-08 |
 | CToolEval | [[Paper]](https://aclanthology.org/2024.findings-acl.928) | A benchmark designed to evaluate  LLMs in the context of Chinese societal applications. | 27 | 398 | [[Repo]](https://github.com/tjunlp-lab/CToolEval.) | 2024-08 |
 | NoisyToolBench | [[Paper]](http://arxiv.org/abs/2409.00557) | This benchmark includes a collection of provided APIs, ambiguous queries, anticipated questions for clarification, and the corresponding responses. | - | 200 | [[Repo]]() | 2024-09 |
+| NESTOOLS | [[Paper]](http://arxiv.org/abs/2410.11805) | A dataset for evaluating nested tool learning abilities of Large Language Models. | 3034 | 1000 | [[Repo]]() | 2024-10 |
+| MTU-Bench | [[Paper]](http://arxiv.org/abs/2410.11710) | A multi-granularity tool-Use benchmark for Large Language Models. | 136 | 159061 | [[Repo]](https: //github.com/MTU-Bench-Team/MTU-Bench.git) | 2024-10 |
+| ACEBench | [[Paper]](http://arxiv.org/abs/2501.12851) | This system is meticulously designed to encompass a wide spectrum of function calling scenarios. | 4538 | - | [[Repo]]() | 2025-01 |
+| ToolHop | [[Paper]](http://arxiv.org/abs/2501.02506) | Designed to assess LLMs’ ability to use tools in multi-hop scenarios. | 3912 | 995 | [[Repo]](https://huggingface.co/ datasets/bytedance-research/ToolHop.) | 2025-01 |
+| ToolComp | [[Paper]](http://arxiv.org/abs/2501.01290) | A comprehensive benchmark designed to evaluate multi-step tool-use reasoning. | 11 | 485 | [[Repo]]() | 2025-01 |
 
 #### Evaluation
 - Task Planning
