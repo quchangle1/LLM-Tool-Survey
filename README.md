@@ -406,6 +406,9 @@ If you find our work helps your research, please kindly cite our paper:
   
   **Graph RAG-Tool Fusion**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.07223)
 
+  **Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2503.01763)
+  
+
 - ##### LLM-based Tool Selection
   
   **On the Tool Manipulation Capability of Open-source Large Language Models**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2305.16504)
@@ -447,6 +450,12 @@ If you find our work helps your research, please kindly cite our paper:
   **Can a Single Model Master Both Multi-turn Conversations and Tool Use? CALM: A Unified Conversational Agentic Language Model**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.08820)
   
   **Tool Unlearning for Tool-Augmented LLMs**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.01083)
+  
+  **PEToolLLM: Towards Personalized Tool Learning in Large Language Models**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.18980)
+  
+  **GenTool: Enhancing Tool Generalization in Language Models through Zero-to-One and Weak-to-Strong Simulation**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.18990)
+  
+  **Evaluating Personalized Tool-Augmented LLMs from the Perspectives of Personalization and Proactivity**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2503.00771)
   
   **From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**, ICLR 2025. [[Paper]](http://arxiv.org/abs/2410.08197)
 
@@ -560,6 +569,8 @@ If you find our work helps your research, please kindly cite our paper:
 | ACEBench | [[Paper]](http://arxiv.org/abs/2501.12851) | This system is meticulously designed to encompass a wide spectrum of function calling scenarios. | 4538 | - | [[Repo]]() | 2025-01 |
 | ToolHop | [[Paper]](http://arxiv.org/abs/2501.02506) | Designed to assess LLMs’ ability to use tools in multi-hop scenarios. | 3912 | 995 | [[Repo]](https://huggingface.co/ datasets/bytedance-research/ToolHop.) | 2025-01 |
 | ToolComp | [[Paper]](http://arxiv.org/abs/2501.01290) | A comprehensive benchmark designed to evaluate multi-step tool-use reasoning. | 11 | 485 | [[Repo]]() | 2025-01 |
+| ToolRet | [[Paper]](http://arxiv.org/abs/2503.01763) | The first evaluation benchmark for tool retrieval tasks. | 43000 | 7600 | [[Repo]](https://mangopy.github.io/tool-retrieval-benchmark/) | 2025-03 |
+| ToolDial | [[Paper]](http://arxiv.org/abs/2503.00564) | A dataset comprising 11,111 multiturn dialogues, with an average of 8.95 turns per dialogue, based on APIs from RapidAPI. | - | 11111 | [[Repo]](https://github.com/holi-lab/ToolDial) | 2025-03 |
 
 #### Evaluation
 - Task Planning
