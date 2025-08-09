@@ -266,6 +266,8 @@ If you find our work helps your research, please kindly cite our paper:
 ### How Tool Learning?
 #### Task Planning.
 - ##### Tool-Integrated Reasoning
+  **START: Self-taught Reasoner with Tools**, Preprint 2025. [[Paper]](https://arxiv.org/abs/2503.04625)
+
   **ToolRL: Reward is All Tool Learning Needs**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2504.13958)
   
   **ReTool: Reinforcement Learning for Strategic Tool Use in LLMs**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2504.11536)
@@ -277,6 +279,13 @@ If you find our work helps your research, please kindly cite our paper:
   **Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2505.01441)
   
   **Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2505.16410)
+  
+  **CoRT: Code-integrated Reasoning within Thinking**, Preprint 2025. [[Paper]](https://arxiv.org/abs/2506.09820)
+  
+  **Agentic Reinforced Policy Optimization**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2507.19849)
+  
+  **AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2507.21836)
+  
 
 - ##### Tuning-free Methods
   
