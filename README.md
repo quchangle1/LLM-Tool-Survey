@@ -503,6 +503,8 @@ If you find our work helps your research, please kindly cite our paper:
   **AutoFeedback: An LLM-based Framework for Efficient and Accurate API Request Generation**, ACL 2024 Findings. [[Paper]](http://arxiv.org/abs/2410.06943)
   
 - ##### Tuning-based Methods
+
+  **Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report**, Preprint 2026. [[Paper]](https://arxiv.org/abs/2608.15763)
   
   **Gorilla: Large Language Model Connected with Massive APIs**, NeurIPS 2024. [[Paper]](https://arxiv.org/abs/2305.15334)
   
