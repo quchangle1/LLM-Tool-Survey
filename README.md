@@ -533,6 +533,8 @@ If you find our work helps your research, please kindly cite our paper:
   **Self-Training Large Language Models for Tool-Use Without Demonstrations**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.05867)
   
   **Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.06589)
+
+  **Disambiguation-Centric Finetuning Makes Enterprise Tool-Calling LLMs More Realistic and Less Risky**, Preprint 2025. [[Paper]](https://arxiv.org/abs/2507.03336)
   
 #### Response Generation.
 - ##### Direct Insertion Methods
