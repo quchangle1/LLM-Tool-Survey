@@ -538,6 +538,8 @@ If you find our work helps your research, please kindly cite our paper:
 
   **Disambiguation-Centric Finetuning Makes Enterprise Tool-Calling LLMs More Realistic and Less Risky**, Preprint 2025. [[Paper]](https://arxiv.org/abs/2507.03336)
   
+  **Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction**, Preprint 2026. [[Paper]](https://arxiv.org/abs/2601.12762)
+  
 #### Response Generation.
 - ##### Direct Insertion Methods
   
