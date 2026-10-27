@@ -429,6 +429,8 @@ If you find our work helps your research, please kindly cite our paper:
   **Graph RAG-Tool Fusion**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2502.07223)
 
   **Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models**, Preprint 2025. [[Paper]](http://arxiv.org/abs/2503.01763)
+
+  **TabAgent: Distilling LLM Agent Components into Cheap Classifiers**, Preprint 2026. [[Paper]](https://arxiv.org/abs/2602.16429)
   
 
 - ##### LLM-based Tool Selection
